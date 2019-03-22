@@ -50,8 +50,8 @@ var app = new Vue({
 
         axios.all([
 
-            axios.get( '/data/settings.json' ) ,
-            axios.get( '/data/JM_Aulas_timeline.csv' ) ,
+            axios.get( 'data/settings.json' ) ,
+            axios.get( 'data/JM_Aulas_timeline.csv' ) ,
 
         ])
 
