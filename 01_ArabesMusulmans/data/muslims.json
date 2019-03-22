@@ -1,0 +1,1450 @@
+[
+ {
+   "label": "Monde",
+   "muslim_population": "1 624 412 000",
+   "percent": "23,4",
+   "percent_sunnites": "20,1",
+   "percent_sunnites": "3,1 + 0.2 autres",
+   "percent_world": "100,00"
+ },
+ {
+   "label": "Asie",
+   "muslim_population": "1 005 507 000",
+   "percent": "33,0",
+   "percent_sunnites": "",
+   "percent_sunnites": "",
+   "percent_world": "62,10"
+ },
+ {
+   "label": "Indonésie",
+   "muslim_population": "204 847 000",
+   "percent": "87,2",
+   "percent_sunnites": "",
+   "percent_sunnites": "0,5",
+   "percent_world": "12,60"
+ },
+ {
+   "label": "Pakistan",
+   "muslim_population": "178 097 000",
+   "percent": "96,4",
+   "percent_sunnites": "86,0",
+   "percent_sunnites": "20,0 + 2 à 8 ahmadis",
+   "percent_world": "11,10"
+ },
+ {
+   "label": "Inde",
+   "muslim_population": "177 286 000",
+   "percent": "14,6",
+   "percent_sunnites": "10,0",
+   "percent_sunnites": "4,0",
+   "percent_world": "10,30"
+ },
+ {
+   "label": "Bangladesh",
+   "muslim_population": "148 607 000",
+   "percent": "90,4",
+   "percent_sunnites": "",
+   "percent_sunnites": "",
+   "percent_world": "9,15"
+ },
+ {
+   "label": "Nigeria",
+   "muslim_population": "75 728 000",
+   "percent": "47,9",
+   "percent_sunnites": "44,0",
+   "percent_sunnites": "5,0",
+   "percent_world": "5,00"
+ },
+ {
+   "label": "Iran",
+   "muslim_population": "74 819 000",
+   "percent": "99,6",
+   "percent_sunnites": "9,0",
+   "percent_sunnites": "89,0",
+   "percent_world": "4,70"
+ },
+ {
+   "label": "Turquie",
+   "muslim_population": "74 660 000",
+   "percent": "98,6",
+   "percent_sunnites": "74,0",
+   "percent_sunnites": "23,0",
+   "percent_world": "4,70"
+ },
+ {
+   "label": "Égypte",
+   "muslim_population": "70 024 000",
+   "percent": "94,7",
+   "percent_sunnites": "87,5",
+   "percent_sunnites": "7,2",
+   "percent_world": "5,00"
+ },
+ {
+   "label": "Europe",
+   "muslim_population": "44 138 000",
+   "percent": "5,9",
+   "percent_sunnites": "",
+   "percent_sunnites": "",
+   "percent_world": "2,70"
+ },
+ {
+   "label": "Algérie",
+   "muslim_population": "38 610 000",
+   "percent": "99,0",
+   "percent_sunnites": "97,0",
+   "percent_sunnites": "1,0 kharidjites",
+   "percent_world": "2,35"
+ },
+ {
+   "label": "Soudan",
+   "muslim_population": "34 206 000",
+   "percent": "97,0",
+   "percent_sunnites": "",
+   "percent_sunnites": "",
+   "percent_world": "1,90"
+ },
+ {
+   "label": "Maroc",
+   "muslim_population": "32 281 000",
+   "percent": "99,9",
+   "percent_sunnites": "",
+   "percent_sunnites": "",
+   "percent_world": "2,00"
+ },
+ {
+   "label": "Irak",
+   "muslim_population": "31 108 000",
+   "percent": "98,9",
+   "percent_sunnites": "37,0",
+   "percent_sunnites": "65,0",
+   "percent_world": "2,00"
+ },
+ {
+   "label": "Afghanistan",
+   "muslim_population": "29 047 100",
+   "percent": "99,8",
+   "percent_sunnites": "80,0",
+   "percent_sunnites": "19,0",
+   "percent_world": "1,90"
+ },
+ {
+   "label": "Éthiopie",
+   "muslim_population": "28 721 000",
+   "percent": "33,8",
+   "percent_sunnites": "",
+   "percent_sunnites": "",
+   "percent_world": "1,80"
+ },
+ {
+   "label": "Arabie saoudite",
+   "muslim_population": "26 940 000",
+   "percent": "97,1",
+   "percent_sunnites": "90,0",
+   "percent_sunnites": "15,0",
+   "percent_world": "1,68"
+ },
+ {
+   "label": "Ouzbékistan",
+   "muslim_population": "26 833 000",
+   "percent": "96,5",
+   "percent_sunnites": "",
+   "percent_sunnites": "",
+   "percent_world": "1,70"
+ },
+ {
+   "label": "Yémen",
+   "muslim_population": "24 023 000",
+   "percent": "99,0",
+   "percent_sunnites": "75,0",
+   "percent_sunnites": "40,0",
+   "percent_world": "1,50"
+ },
+ {
+   "label": "Chine",
+   "muslim_population": "22 000 000[11]-50 000 000[12]",
+   "percent": "1,8",
+   "percent_sunnites": "",
+   "percent_sunnites": "",
+   "percent_world": "1,26"
+ },
+ {
+   "label": "Syrie",
+   "muslim_population": "20 895 000",
+   "percent": "92,8",
+   "percent_sunnites": "73,0",
+   "percent_sunnites": "11,0 + 8 druzes",
+   "percent_world": "1,30"
+ },
+ {
+   "label": "Malaisie",
+   "muslim_population": "17 139 000",
+   "percent": "61,4",
+   "percent_sunnites": "79,0",
+   "percent_sunnites": "1,2",
+   "percent_world": "1,10"
+ },
+ {
+   "label": "Russie",
+   "muslim_population": "16 379 000",
+   "percent": "11,7",
+   "percent_sunnites": "11,2",
+   "percent_sunnites": "0,5",
+   "percent_world": "1,00"
+ },
+ {
+   "label": "Niger",
+   "muslim_population": "15 627 000",
+   "percent": "98,3",
+   "percent_sunnites": "",
+   "percent_sunnites": "",
+   "percent_world": "1,00"
+ },
+ {
+   "label": "Somalie",
+   "muslim_population": "14 032 000",
+   "percent": "100,0",
+   "percent_sunnites": "100,00%",
+   "percent_sunnites": "",
+   "percent_world": "0,87"
+ },
+ {
+   "label": "Tanzanie",
+   "muslim_population": "13 450 000",
+   "percent": "29,9",
+   "percent_sunnites": "18,0",
+   "percent_sunnites": "6,0  + 5 ahmadis",
+   "percent_world": "0,80"
+ },
+ {
+   "label": "Kazakhstan",
+   "muslim_population": "12 451 300",
+   "percent": "56,4",
+   "percent_sunnites": "",
+   "percent_sunnites": "49,0 sans dénomination",
+   "percent_world": "0,80"
+ },
+ {
+   "label": "Sénégal",
+   "muslim_population": "12 333 000",
+   "percent": "95,9",
+   "percent_sunnites": "95,8",
+   "percent_sunnites": "0,1",
+   "percent_world": "0,80"
+ },
+ {
+   "label": "Mali",
+   "muslim_population": "12 316 000",
+   "percent": "92,4",
+   "percent_sunnites": "",
+   "percent_sunnites": "",
+   "percent_world": "0,10"
+ },
+ {
+   "label": "Burkina Faso",
+   "muslim_population": "10 777 000",
+   "percent": "58,9",
+   "percent_sunnites": "",
+   "percent_sunnites": "",
+   "percent_world": "0,67"
+ },
+ {
+   "label": "Tunisie",
+   "muslim_population": "10 349 000",
+   "percent": "99,8",
+   "percent_sunnites": "",
+   "percent_sunnites": "",
+   "percent_world": "0,70"
+ },
+ {
+   "label": "Azerbaïdjan",
+   "muslim_population": "8 795 000",
+   "percent": "98,4",
+   "percent_sunnites": "14,0",
+   "percent_sunnites": "84,0",
+   "percent_world": "0,55"
+ },
+ {
+   "label": "Guinée",
+   "muslim_population": "8 693 000",
+   "percent": "84,2",
+   "percent_sunnites": "",
+   "percent_sunnites": "",
+   "percent_world": "0,50"
+ },
+ {
+   "label": "Côte d'Ivoire",
+   "muslim_population": "7 960 000",
+   "percent": "40,0",
+   "percent_sunnites": "",
+   "percent_sunnites": "",
+   "percent_world": "0,50"
+ },
+ {
+   "label": "Tadjikistan",
+   "muslim_population": "7 006 000",
+   "percent": "99,0",
+   "percent_sunnites": "",
+   "percent_sunnites": "",
+   "percent_world": "0,40"
+ },
+ {
+   "label": "Palestine",
+   "muslim_population": "7 000 000",
+   "percent": "97,5\n(99.3 Gaza\n75% Cisjordanie)",
+   "percent_sunnites": "",
+   "percent_sunnites": "",
+   "percent_world": "0,44"
+ },
+ {
+   "label": "Tchad",
+   "muslim_population": "6 404 000",
+   "percent": "55,7",
+   "percent_sunnites": "",
+   "percent_sunnites": "",
+   "percent_world": "0,40"
+ },
+ {
+   "label": "Jordanie",
+   "muslim_population": "6 397 000",
+   "percent": "98,8",
+   "percent_sunnites": "",
+   "percent_sunnites": "",
+   "percent_world": "0,40"
+ },
+ {
+   "label": "Libye",
+   "muslim_population": "6 325 000",
+   "percent": "96,6",
+   "percent_sunnites": "",
+   "percent_sunnites": "",
+   "percent_world": "0,40"
+ },
+ {
+   "label": "Mozambique",
+   "muslim_population": "5 340 000",
+   "percent": "22,8",
+   "percent_sunnites": "",
+   "percent_sunnites": "",
+   "percent_world": "0,30"
+ },
+ {
+   "label": "Amérique",
+   "muslim_population": "5 256 000",
+   "percent": "0,6",
+   "percent_sunnites": "",
+   "percent_sunnites": "",
+   "percent_world": "0,30"
+ },
+ {
+   "label": "Érythrée",
+   "muslim_population": "5 200 000",
+   "percent": "36,5",
+   "percent_sunnites": "",
+   "percent_sunnites": "",
+   "percent_world": "0,10"
+ },
+ {
+   "label": "Kirghizistan",
+   "muslim_population": "4 927 000",
+   "percent": "88,8",
+   "percent_sunnites": "",
+   "percent_sunnites": "56,0 sans dénomination",
+   "percent_world": "0,20"
+ },
+ {
+   "label": "Turkménistan",
+   "muslim_population": "4 830 000",
+   "percent": "93,3",
+   "percent_sunnites": "",
+   "percent_sunnites": "",
+   "percent_world": "0,30"
+ },
+ {
+   "label": "Philippines",
+   "muslim_population": "4 737 000",
+   "percent": "5,1",
+   "percent_sunnites": "",
+   "percent_sunnites": "",
+   "percent_world": "0,30"
+ },
+ {
+   "label": "France",
+   "muslim_population": "4 710 000[13]",
+   "percent": "7,5[13]",
+   "percent_sunnites": "",
+   "percent_sunnites": "",
+   "percent_world": "0,20"
+ },
+ {
+   "label": "Sierra Leone",
+   "muslim_population": "4 171 000",
+   "percent": "72,0",
+   "percent_sunnites": "",
+   "percent_sunnites": "",
+   "percent_world": "0,30"
+ },
+ {
+   "label": "Allemagne",
+   "muslim_population": "4 119 000",
+   "percent": "5,0",
+   "percent_sunnites": "4,5",
+   "percent_sunnites": "0,5",
+   "percent_world": "0,18"
+ },
+ {
+   "label": "Cameroun",
+   "muslim_population": "4 110 000",
+   "percent": "18,0",
+   "percent_sunnites": "",
+   "percent_sunnites": "",
+   "percent_world": "0,25"
+ },
+ {
+   "label": "Ouganda",
+   "muslim_population": "4 060 000",
+   "percent": "12,0",
+   "percent_sunnites": "",
+   "percent_sunnites": "",
+   "percent_world": "0,30"
+ },
+ {
+   "label": "Thaïlande",
+   "muslim_population": "3 952 000",
+   "percent": "5,8",
+   "percent_sunnites": "",
+   "percent_sunnites": "",
+   "percent_world": "0,30"
+ },
+ {
+   "label": "Ghana",
+   "muslim_population": "3 906 000",
+   "percent": "16,1",
+   "percent_sunnites": "",
+   "percent_sunnites": "",
+   "percent_world": "0,20"
+ },
+ {
+   "label": "Émirats arabes unis",
+   "muslim_population": "3 577 000",
+   "percent": "96,0",
+   "percent_sunnites": "80,0",
+   "percent_sunnites": "16,0",
+   "percent_world": "0,20"
+ },
+ {
+   "label": "Mauritanie",
+   "muslim_population": "3 338 000",
+   "percent": "99,2",
+   "percent_sunnites": "",
+   "percent_sunnites": "",
+   "percent_world": "0,20"
+ },
+ {
+   "label": "Royaume-Uni",
+   "muslim_population": "2 869 000 -\n2 422 000 [16]",
+   "percent": "4,6",
+   "percent_sunnites": "",
+   "percent_sunnites": "",
+   "percent_world": "0,10"
+ },
+ {
+   "label": "Kenya",
+   "muslim_population": "2 868 000",
+   "percent": "7,0",
+   "percent_sunnites": "",
+   "percent_sunnites": "",
+   "percent_world": "0,20"
+ },
+ {
+   "label": "Koweït",
+   "muslim_population": "2 636 000",
+   "percent": "86,4",
+   "percent_sunnites": "70,0",
+   "percent_sunnites": "40,0",
+   "percent_world": "0,30"
+ },
+ {
+   "label": "Albanie",
+   "muslim_population": "2 601 000",
+   "percent": "70,1",
+   "percent_sunnites": "52,0",
+   "percent_sunnites": "7,0",
+   "percent_world": "0,13"
+ },
+ {
+   "label": "États-Unis",
+   "muslim_population": "2 595 000",
+   "percent": "0,8",
+   "percent_sunnites": "0,4",
+   "percent_sunnites": "0,4",
+   "percent_world": "0,20"
+ },
+ {
+   "label": "Oman",
+   "muslim_population": "2 547 000",
+   "percent": "87,7",
+   "percent_sunnites": "14,7",
+   "percent_sunnites": "73,0  ibadites",
+   "percent_world": "0,20"
+ },
+ {
+   "label": "Liban",
+   "muslim_population": "2 535 000",
+   "percent": "59,0",
+   "percent_sunnites": "27,0",
+   "percent_sunnites": "27,0 + 5 druzes",
+   "percent_world": "0,20"
+ },
+ {
+   "label": "Bénin",
+   "muslim_population": "2 411 000",
+   "percent": "24,4",
+   "percent_sunnites": "",
+   "percent_sunnites": "",
+   "percent_world": "0,15"
+ },
+ {
+   "label": "Kosovo",
+   "muslim_population": "2 104 000",
+   "percent": "91,7",
+   "percent_sunnites": "",
+   "percent_sunnites": "",
+   "percent_world": "0,10"
+ },
+ {
+   "label": "Malawi",
+   "muslim_population": "2 011 000",
+   "percent": "12,8",
+   "percent_sunnites": "",
+   "percent_sunnites": "",
+   "percent_world": "0,10"
+ },
+ {
+   "label": "Myanmar",
+   "muslim_population": "1 900 000",
+   "percent": "3,8",
+   "percent_sunnites": "",
+   "percent_sunnites": "",
+   "percent_world": "0,10"
+ },
+ {
+   "label": "Sri Lanka",
+   "muslim_population": "1 725 000",
+   "percent": "8,5",
+   "percent_sunnites": "",
+   "percent_sunnites": "",
+   "percent_world": "0,10"
+ },
+ {
+   "label": "Gambie",
+   "muslim_population": "1 669 000",
+   "percent": "95,3",
+   "percent_sunnites": "",
+   "percent_sunnites": "",
+   "percent_world": "0,10"
+ },
+ {
+   "label": "Israël",
+   "muslim_population": "1 586 880",
+   "percent": "17,7",
+   "percent_sunnites": "",
+   "percent_sunnites": "",
+   "percent_world": "0,10"
+ },
+ {
+   "label": "Italie",
+   "muslim_population": "1 583 000 -\n825 000[15]",
+   "percent": "2,6",
+   "percent_sunnites": "",
+   "percent_sunnites": "",
+   "percent_world": "0,10"
+ },
+ {
+   "label": "Bosnie-Herzégovine",
+   "muslim_population": "1 564 000",
+   "percent": "50,7[8]",
+   "percent_sunnites": "48,7",
+   "percent_sunnites": "2,0",
+   "percent_world": "0,09"
+ },
+ {
+   "label": "Népal",
+   "muslim_population": "1 253 000",
+   "percent": "4,2",
+   "percent_sunnites": "",
+   "percent_sunnites": "",
+   "percent_world": "0,10"
+ },
+ {
+   "label": "Qatar",
+   "muslim_population": "1 168 000",
+   "percent": "77,5",
+   "percent_sunnites": "",
+   "percent_sunnites": "",
+   "percent_world": "0,10"
+ },
+ {
+   "label": "Comores",
+   "muslim_population": "1 071 229",
+   "percent": "99 à 100%",
+   "percent_sunnites": "",
+   "percent_sunnites": "",
+   "percent_world": "0,04"
+ },
+ {
+   "label": "Bahreïn",
+   "muslim_population": "1 041 000",
+   "percent": "81,2",
+   "percent_sunnites": "19,0",
+   "percent_sunnites": "70,0",
+   "percent_world": "0,06"
+ },
+ {
+   "label": "Soudan du Sud",
+   "muslim_population": "1 025 000",
+   "percent": "6,2",
+   "percent_sunnites": "",
+   "percent_sunnites": "",
+   "percent_world": "0,10"
+ },
+ {
+   "label": "Espagne",
+   "muslim_population": "1 021 000",
+   "percent": "2,3",
+   "percent_sunnites": "",
+   "percent_sunnites": "",
+   "percent_world": "0,10"
+ },
+ {
+   "label": "Bulgarie",
+   "muslim_population": "1 002 000",
+   "percent": "13,4",
+   "percent_sunnites": "9,0",
+   "percent_sunnites": "4,0",
+   "percent_world": "0,03"
+ },
+ {
+   "label": "République démocratique du Congo",
+   "muslim_population": "969 000",
+   "percent": "1,4",
+   "percent_sunnites": "",
+   "percent_sunnites": "",
+   "percent_world": "0,10"
+ },
+ {
+   "label": "Canada",
+   "muslim_population": "940 000",
+   "percent": "2,8",
+   "percent_sunnites": "",
+   "percent_sunnites": "",
+   "percent_world": "0,04"
+ },
+ {
+   "label": "Pays-Bas",
+   "muslim_population": "914 000",
+   "percent": "5,5",
+   "percent_sunnites": "",
+   "percent_sunnites": "",
+   "percent_world": "0,10"
+ },
+ {
+   "label": "Djibouti",
+   "muslim_population": "853 000",
+   "percent": "97,0",
+   "percent_sunnites": "",
+   "percent_sunnites": "",
+   "percent_world": "0,10"
+ },
+ {
+   "label": "Togo",
+   "muslim_population": "827 000",
+   "percent": "12,2",
+   "percent_sunnites": "",
+   "percent_sunnites": "",
+   "percent_world": "0,10"
+ },
+ {
+   "label": "Argentine",
+   "muslim_population": "784 000",
+   "percent": "2,5",
+   "percent_sunnites": "",
+   "percent_sunnites": "",
+   "percent_world": "0,10"
+ },
+ {
+   "label": "République centrafricaine",
+   "muslim_population": "775 000",
+   "percent": "8,9",
+   "percent_sunnites": "",
+   "percent_sunnites": "",
+   "percent_world": "0,04"
+ },
+ {
+   "label": "Afrique du Sud",
+   "muslim_population": "730 000",
+   "percent": "1,5",
+   "percent_sunnites": "",
+   "percent_sunnites": "",
+   "percent_world": "0,04"
+ },
+ {
+   "label": "Macédoine",
+   "muslim_population": "713 000",
+   "percent": "34,9",
+   "percent_sunnites": "",
+   "percent_sunnites": "",
+   "percent_world": "0,10"
+ },
+ {
+   "label": "Guinée-Bissau",
+   "muslim_population": "705 000",
+   "percent": "42,8",
+   "percent_sunnites": "",
+   "percent_sunnites": "",
+   "percent_world": "0,10"
+ },
+ {
+   "label": "Belgique",
+   "muslim_population": "638 000",
+   "percent": "6,0",
+   "percent_sunnites": "",
+   "percent_sunnites": "",
+   "percent_world": "0,10"
+ },
+ {
+   "label": "Grèce",
+   "muslim_population": "527 000",
+   "percent": "4,7",
+   "percent_sunnites": "",
+   "percent_sunnites": "",
+   "percent_world": "0,10"
+ },
+ {
+   "label": "Libéria",
+   "muslim_population": "523 000",
+   "percent": "12,8",
+   "percent_sunnites": "",
+   "percent_sunnites": "",
+   "percent_world": "0,10"
+ },
+ {
+   "label": "Autriche",
+   "muslim_population": "475 000",
+   "percent": "5,7",
+   "percent_sunnites": "",
+   "percent_sunnites": "",
+   "percent_world": "0,02"
+ },
+ {
+   "label": "Suède",
+   "muslim_population": "451 000",
+   "percent": "4,9",
+   "percent_sunnites": "",
+   "percent_sunnites": "",
+   "percent_world": "0,10"
+ },
+ {
+   "label": "Géorgie",
+   "muslim_population": "442 000",
+   "percent": "10,6",
+   "percent_sunnites": "",
+   "percent_sunnites": "",
+   "percent_world": "0,00"
+ },
+ {
+   "label": "Suisse",
+   "muslim_population": "433 000",
+   "percent": "5,7",
+   "percent_sunnites": "",
+   "percent_sunnites": "",
+   "percent_world": "0,10"
+ },
+ {
+   "label": "Brésil",
+   "muslim_population": "400 000 - 1 500 000[9]",
+   "percent": "0,2 à 0,7%",
+   "percent_sunnites": "",
+   "percent_sunnites": "",
+   "percent_world": "0,10"
+ },
+ {
+   "label": "Australie",
+   "muslim_population": "399 000[7]",
+   "percent": "1,9",
+   "percent_sunnites": "",
+   "percent_sunnites": "",
+   "percent_world": "0,02"
+ },
+ {
+   "label": "Ukraine",
+   "muslim_population": "393 000",
+   "percent": "3,0",
+   "percent_sunnites": "",
+   "percent_sunnites": "",
+   "percent_world": "0,10"
+ },
+ {
+   "label": "Cambodge",
+   "muslim_population": "320 000",
+   "percent": "1,6",
+   "percent_sunnites": "",
+   "percent_sunnites": "",
+   "percent_world": "0,01"
+ },
+ {
+   "label": "Maldives",
+   "muslim_population": "309 000",
+   "percent": "98,4",
+   "percent_sunnites": "",
+   "percent_sunnites": "",
+   "percent_world": "0,10"
+ },
+ {
+   "label": "Serbie",
+   "muslim_population": "280 000",
+   "percent": "3,7",
+   "percent_sunnites": "",
+   "percent_sunnites": "",
+   "percent_world": "0,10"
+ },
+ {
+   "label": "Brunei",
+   "muslim_population": "279 000",
+   "percent": "51,9",
+   "percent_sunnites": "",
+   "percent_sunnites": "",
+   "percent_world": "0,01"
+ },
+ {
+   "label": "Burundi",
+   "muslim_population": "273 000",
+   "percent": "2,2",
+   "percent_sunnites": "",
+   "percent_sunnites": "",
+   "percent_world": "0,01"
+ },
+ {
+   "label": "Danemark",
+   "muslim_population": "226 000",
+   "percent": "4,1",
+   "percent_sunnites": "",
+   "percent_sunnites": "",
+   "percent_world": "0,10"
+ },
+ {
+   "label": "Madagascar",
+   "muslim_population": "220 000",
+   "percent": "1,1",
+   "percent_sunnites": "",
+   "percent_sunnites": "",
+   "percent_world": "0,10"
+ },
+ {
+   "label": "Maurice",
+   "muslim_population": "216 000",
+   "percent": "16,6",
+   "percent_sunnites": "",
+   "percent_sunnites": "",
+   "percent_world": "0,10"
+ },
+ {
+   "label": "Chypre",
+   "muslim_population": "208 000",
+   "percent": "22,7",
+   "percent_sunnites": "",
+   "percent_sunnites": "",
+   "percent_world": "0,01"
+ },
+ {
+   "label": "Singapour",
+   "muslim_population": "208 000",
+   "percent": "14,9",
+   "percent_sunnites": "",
+   "percent_sunnites": "",
+   "percent_world": "0,10"
+ },
+ {
+   "label": "Rwanda",
+   "muslim_population": "188 000",
+   "percent": "1,8",
+   "percent_sunnites": "",
+   "percent_sunnites": "",
+   "percent_world": "0,10"
+ },
+ {
+   "label": "Japon",
+   "muslim_population": "185 000",
+   "percent": "0,1",
+   "percent_sunnites": "",
+   "percent_sunnites": "",
+   "percent_world": "0,10"
+ },
+ {
+   "label": "Viêt Nam",
+   "muslim_population": "160 000",
+   "percent": "0,2",
+   "percent_sunnites": "",
+   "percent_sunnites": "",
+   "percent_world": "0,10"
+ },
+ {
+   "label": "Gabon",
+   "muslim_population": "145 000",
+   "percent": "9,7",
+   "percent_sunnites": "",
+   "percent_sunnites": "",
+   "percent_world": "0,10"
+ },
+ {
+   "label": "Norvège",
+   "muslim_population": "144 000",
+   "percent": "3,0",
+   "percent_sunnites": "",
+   "percent_sunnites": "",
+   "percent_world": "0,10"
+ },
+ {
+   "label": "Monténégro",
+   "muslim_population": "124 222",
+   "percent": "18,5",
+   "percent_sunnites": "",
+   "percent_sunnites": "",
+   "percent_world": "0,10"
+ },
+ {
+   "label": "Mongolie",
+   "muslim_population": "120 000",
+   "percent": "4,4",
+   "percent_sunnites": "",
+   "percent_sunnites": "",
+   "percent_world": "0,10"
+ },
+ {
+   "label": "Mexique",
+   "muslim_population": "111 000",
+   "percent": "0,1",
+   "percent_sunnites": "",
+   "percent_sunnites": "",
+   "percent_world": "0,10"
+ },
+ {
+   "label": "Zimbabwe",
+   "muslim_population": "109 000",
+   "percent": "0,9",
+   "percent_sunnites": "",
+   "percent_sunnites": "",
+   "percent_world": "0,10"
+ },
+ {
+   "label": "Venezuela",
+   "muslim_population": "95 000",
+   "percent": "0,3",
+   "percent_sunnites": "",
+   "percent_sunnites": "",
+   "percent_world": "0,10"
+ },
+ {
+   "label": "Angola",
+   "muslim_population": "90 000",
+   "percent": "1,0",
+   "percent_sunnites": "",
+   "percent_sunnites": "",
+   "percent_world": "0,10"
+ },
+ {
+   "label": "Suriname",
+   "muslim_population": "84 000",
+   "percent": "15,9",
+   "percent_sunnites": "",
+   "percent_sunnites": "",
+   "percent_world": "0,10"
+ },
+ {
+   "label": "Trinité-et-Tobago",
+   "muslim_population": "78 000",
+   "percent": "5,8",
+   "percent_sunnites": "",
+   "percent_sunnites": "",
+   "percent_world": "0,10"
+ },
+ {
+   "label": "Corée du Sud",
+   "muslim_population": "75 000",
+   "percent": "0,2",
+   "percent_sunnites": "",
+   "percent_sunnites": "",
+   "percent_world": "0,10"
+ },
+ {
+   "label": "Roumanie",
+   "muslim_population": "73 000",
+   "percent": "0,3",
+   "percent_sunnites": "0,3",
+   "percent_sunnites": "",
+   "percent_world": "0,10"
+ },
+ {
+   "label": "Portugal",
+   "muslim_population": "65 000",
+   "percent": "0,6",
+   "percent_sunnites": "",
+   "percent_sunnites": "",
+   "percent_world": "0,10"
+ },
+ {
+   "label": "République du Congo",
+   "muslim_population": "60 000",
+   "percent": "1,6",
+   "percent_sunnites": "",
+   "percent_sunnites": "",
+   "percent_world": "0,10"
+ },
+ {
+   "label": "Zambie",
+   "muslim_population": "59 000",
+   "percent": "0,4",
+   "percent_sunnites": "",
+   "percent_sunnites": "",
+   "percent_world": "0,10"
+ },
+ {
+   "label": "Croatie",
+   "muslim_population": "56 000",
+   "percent": "1,3",
+   "percent_sunnites": "",
+   "percent_sunnites": "",
+   "percent_world": "0,10"
+ },
+ {
+   "label": "Guyana",
+   "muslim_population": "55 000",
+   "percent": "7,2",
+   "percent_sunnites": "",
+   "percent_sunnites": "",
+   "percent_world": "0,10"
+ },
+ {
+   "label": "Fidji",
+   "muslim_population": "54 000",
+   "percent": "6,3",
+   "percent_sunnites": "",
+   "percent_sunnites": "",
+   "percent_world": "0,10"
+ },
+ {
+   "label": "Slovénie",
+   "muslim_population": "49 000",
+   "percent": "2,4",
+   "percent_sunnites": "",
+   "percent_sunnites": "",
+   "percent_world": "0,10"
+ },
+ {
+   "label": "Irlande",
+   "muslim_population": "43 000",
+   "percent": "0,9",
+   "percent_sunnites": "",
+   "percent_sunnites": "",
+   "percent_world": "0,10"
+ },
+ {
+   "label": "Finlande",
+   "muslim_population": "42 000",
+   "percent": "0,8",
+   "percent_sunnites": "",
+   "percent_sunnites": "",
+   "percent_world": "0,10"
+ },
+ {
+   "label": "Nouvelle-Zélande",
+   "muslim_population": "41 000",
+   "percent": "0,9",
+   "percent_sunnites": "",
+   "percent_sunnites": "",
+   "percent_world": "0,10"
+ },
+ {
+   "label": "Hongrie",
+   "muslim_population": "25 000",
+   "percent": "0,3",
+   "percent_sunnites": "",
+   "percent_sunnites": "",
+   "percent_world": "0,10"
+ },
+ {
+   "label": "Panama",
+   "muslim_population": "25 000",
+   "percent": "0,7",
+   "percent_sunnites": "",
+   "percent_sunnites": "",
+   "percent_world": "0,10"
+ },
+ {
+   "label": "Taïwan",
+   "muslim_population": "23 000",
+   "percent": "0,1",
+   "percent_sunnites": "",
+   "percent_sunnites": "",
+   "percent_world": "0,10"
+ },
+ {
+   "label": "Pologne",
+   "muslim_population": "20 000",
+   "percent": "0,1",
+   "percent_sunnites": "",
+   "percent_sunnites": "",
+   "percent_world": "0,10"
+ },
+ {
+   "label": "Biélorussie",
+   "muslim_population": "19 000",
+   "percent": "0,2",
+   "percent_sunnites": "",
+   "percent_sunnites": "",
+   "percent_world": "0,10"
+ },
+ {
+   "label": "Moldavie",
+   "muslim_population": "15 000",
+   "percent": "0,4",
+   "percent_sunnites": "",
+   "percent_sunnites": "",
+   "percent_world": "0,10"
+ },
+ {
+   "label": "Colombie",
+   "muslim_population": "14 000",
+   "percent": "0,1",
+   "percent_sunnites": "",
+   "percent_sunnites": "",
+   "percent_world": "0,10"
+ },
+ {
+   "label": "Honduras",
+   "muslim_population": "11 000",
+   "percent": "0,1",
+   "percent_sunnites": "",
+   "percent_sunnites": "",
+   "percent_world": "0,10"
+ },
+ {
+   "label": "Luxembourg",
+   "muslim_population": "11 000",
+   "percent": "2,3",
+   "percent_sunnites": "",
+   "percent_sunnites": "",
+   "percent_world": "0,10"
+ },
+ {
+   "label": "Cuba",
+   "muslim_population": "10 000",
+   "percent": "0,1",
+   "percent_sunnites": "",
+   "percent_sunnites": "",
+   "percent_world": "0,10"
+ },
+ {
+   "label": "Namibie",
+   "muslim_population": "9 000",
+   "percent": "0,4",
+   "percent_sunnites": "",
+   "percent_sunnites": "",
+   "percent_world": "0,10"
+ },
+ {
+   "label": "République tchèque",
+   "muslim_population": "9 000",
+   "percent": "0,5",
+   "percent_sunnites": "",
+   "percent_sunnites": "",
+   "percent_world": "0,10"
+ },
+ {
+   "label": "Botswana",
+   "muslim_population": "8 000",
+   "percent": "0,4",
+   "percent_sunnites": "",
+   "percent_sunnites": "",
+   "percent_world": "0,10"
+ },
+ {
+   "label": "Bhoutan",
+   "muslim_population": "7 000",
+   "percent": "1,0",
+   "percent_sunnites": "",
+   "percent_sunnites": "",
+   "percent_world": "0,10"
+ },
+ {
+   "label": "Nouvelle-Calédonie",
+   "muslim_population": "7 000",
+   "percent": "2,8",
+   "percent_sunnites": "",
+   "percent_sunnites": "",
+   "percent_world": "0,10"
+ },
+ {
+   "label": "Papouasie-Nouvelle-Guinée",
+   "muslim_population": "5 000",
+   "percent": "0,1",
+   "percent_sunnites": "",
+   "percent_sunnites": "",
+   "percent_world": "0,10"
+ },
+ {
+   "label": "Chili",
+   "muslim_population": "4 000 -\n2 894[10]",
+   "percent": "0,2",
+   "percent_sunnites": "",
+   "percent_sunnites": "",
+   "percent_world": "0,10"
+ },
+ {
+   "label": "Slovaquie",
+   "muslim_population": "4 000",
+   "percent": "0,1",
+   "percent_sunnites": "",
+   "percent_sunnites": "",
+   "percent_world": "0,10"
+ },
+ {
+   "label": "Corée du Nord",
+   "muslim_population": "3 000",
+   "percent": "0,1",
+   "percent_sunnites": "",
+   "percent_sunnites": "",
+   "percent_world": "0,10"
+ },
+ {
+   "label": "Lituanie",
+   "muslim_population": "3 000",
+   "percent": "0,1",
+   "percent_sunnites": "",
+   "percent_sunnites": "",
+   "percent_world": "0,10"
+ },
+ {
+   "label": "Bolivie",
+   "muslim_population": "2 000",
+   "percent": "0,1",
+   "percent_sunnites": "",
+   "percent_sunnites": "",
+   "percent_world": "0,10"
+ },
+ {
+   "label": "République dominicaine",
+   "muslim_population": "2 000",
+   "percent": "0,1",
+   "percent_sunnites": "",
+   "percent_sunnites": "",
+   "percent_world": "0,10"
+ },
+ {
+   "label": "Équateur",
+   "muslim_population": "2 000",
+   "percent": "0,1",
+   "percent_sunnites": "",
+   "percent_sunnites": "",
+   "percent_world": "0,10"
+ },
+ {
+   "label": "Estonie",
+   "muslim_population": "2 000",
+   "percent": "0,1",
+   "percent_sunnites": "",
+   "percent_sunnites": "",
+   "percent_world": "0,10"
+ },
+ {
+   "label": "Haïti",
+   "muslim_population": "2 000",
+   "percent": "0,1",
+   "percent_sunnites": "",
+   "percent_sunnites": "",
+   "percent_world": "0,10"
+ },
+ {
+   "label": "Lettonie",
+   "muslim_population": "2 000",
+   "percent": "0,1",
+   "percent_sunnites": "",
+   "percent_sunnites": "",
+   "percent_world": "0,10"
+ },
+ {
+   "label": "Salvador",
+   "muslim_population": "2 000",
+   "percent": "0,1",
+   "percent_sunnites": "",
+   "percent_sunnites": "",
+   "percent_world": "0,10"
+ },
+ {
+   "label": "Swaziland",
+   "muslim_population": "2 000",
+   "percent": "0,2",
+   "percent_sunnites": "",
+   "percent_sunnites": "",
+   "percent_world": "0,10"
+ },
+ {
+   "label": "Belize",
+   "muslim_population": "1 400",
+   "percent": "0,1",
+   "percent_sunnites": "",
+   "percent_sunnites": "",
+   "percent_world": "0,10"
+ },
+ {
+   "label": "Arménie",
+   "muslim_population": "1 000",
+   "percent": "0,1",
+   "percent_sunnites": "",
+   "percent_sunnites": "",
+   "percent_world": "0,10"
+ },
+ {
+   "label": "Costa Rica",
+   "muslim_population": "1 000",
+   "percent": "0,1",
+   "percent_sunnites": "",
+   "percent_sunnites": "",
+   "percent_world": "0,10"
+ },
+ {
+   "label": "Guatemala",
+   "muslim_population": "1 000",
+   "percent": "0,1",
+   "percent_sunnites": "",
+   "percent_sunnites": "",
+   "percent_world": "0,10"
+ },
+ {
+   "label": "Jamaïque",
+   "muslim_population": "1 000",
+   "percent": "0,1",
+   "percent_sunnites": "",
+   "percent_sunnites": "",
+   "percent_world": "0,10"
+ },
+ {
+   "label": "Laos",
+   "muslim_population": "1 000",
+   "percent": "0,1",
+   "percent_sunnites": "",
+   "percent_sunnites": "",
+   "percent_world": "0,10"
+ },
+ {
+   "label": "Lesotho",
+   "muslim_population": "1 000",
+   "percent": "0,1",
+   "percent_sunnites": "",
+   "percent_sunnites": "",
+   "percent_world": "0,10"
+ },
+ {
+   "label": "Malte",
+   "muslim_population": "1 000",
+   "percent": "0,3",
+   "percent_sunnites": "",
+   "percent_sunnites": "",
+   "percent_world": "0,10"
+ },
+ {
+   "label": "Nicaragua",
+   "muslim_population": "1 000",
+   "percent": "0,1",
+   "percent_sunnites": "",
+   "percent_sunnites": "",
+   "percent_world": "0,10"
+ },
+ {
+   "label": "Paraguay",
+   "muslim_population": "1 000",
+   "percent": "0,1",
+   "percent_sunnites": "",
+   "percent_sunnites": "",
+   "percent_world": "0,10"
+ },
+ {
+   "label": "Pérou",
+   "muslim_population": "1 000",
+   "percent": "0,1",
+   "percent_sunnites": "",
+   "percent_sunnites": "",
+   "percent_world": "0,10"
+ },
+ {
+   "label": "Porto Rico",
+   "muslim_population": "1 000",
+   "percent": "0,1",
+   "percent_sunnites": "",
+   "percent_sunnites": "",
+   "percent_world": "0,10"
+ },
+ {
+   "label": "Seychelles",
+   "muslim_population": "1 000",
+   "percent": "1,1",
+   "percent_sunnites": "",
+   "percent_sunnites": "",
+   "percent_world": "0,10"
+ },
+ {
+   "label": "Timor oriental",
+   "muslim_population": "1 000",
+   "percent": "0,1",
+   "percent_sunnites": "",
+   "percent_sunnites": "",
+   "percent_world": "0,10"
+ },
+ {
+   "label": "Uruguay",
+   "muslim_population": "1 000",
+   "percent": "0,1",
+   "percent_sunnites": "",
+   "percent_sunnites": "",
+   "percent_world": "0,10"
+ },
+ {
+   "label": "Vanuatu",
+   "muslim_population": "1 000",
+   "percent": "0,1",
+   "percent_sunnites": "",
+   "percent_sunnites": "",
+   "percent_world": "0,10"
+ },
+ {
+   "label": "Andorre",
+   "muslim_population": "1 000",
+   "percent": "0,1",
+   "percent_sunnites": "",
+   "percent_sunnites": "",
+   "percent_world": "0,10"
+ },
+ {
+   "label": "Grenade",
+   "muslim_population": "1 000",
+   "percent": "0,3",
+   "percent_sunnites": "",
+   "percent_sunnites": "",
+   "percent_world": "0,10"
+ },
+ {
+   "label": "Islande",
+   "muslim_population": "1 000",
+   "percent": "0,1",
+   "percent_sunnites": "",
+   "percent_sunnites": "",
+   "percent_world": "0,10"
+ },
+ {
+   "label": "Vatican",
+   "muslim_population": "0",
+   "percent": "0",
+   "percent_sunnites": "",
+   "percent_sunnites": "",
+   "percent_world": "0,0"
+ }
+]

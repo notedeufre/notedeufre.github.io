@@ -1,0 +1,1490 @@
+[
+ {
+   "label": "Pays",
+   "ISO2": "ISO 3166-1 alpha-2",
+   "ISO": "ISO 3166-1 alpha-3",
+   "UN_CODE": "ISO 3166-1 numérique"
+ },
+ {
+   "label": "Afghanistan",
+   "ISO2": "AF",
+   "ISO": "AFG",
+   "UN_CODE": "4"
+ },
+ {
+   "label": "Îles Åland",
+   "ISO2": "AX",
+   "ISO": "ALA",
+   "UN_CODE": "248"
+ },
+ {
+   "label": "Albanie",
+   "ISO2": "AL",
+   "ISO": "ALB",
+   "UN_CODE": "8"
+ },
+ {
+   "label": "Algérie",
+   "ISO2": "DZ",
+   "ISO": "DZA",
+   "UN_CODE": "12"
+ },
+ {
+   "label": "Samoa américaines",
+   "ISO2": "AS",
+   "ISO": "ASM",
+   "UN_CODE": "16"
+ },
+ {
+   "label": "Andorre",
+   "ISO2": "AD",
+   "ISO": "AND",
+   "UN_CODE": "20"
+ },
+ {
+   "label": "Angola",
+   "ISO2": "AO",
+   "ISO": "AGO",
+   "UN_CODE": "24"
+ },
+ {
+   "label": "Anguilla",
+   "ISO2": "AI",
+   "ISO": "AIA",
+   "UN_CODE": "660"
+ },
+ {
+   "label": "Antarctique",
+   "ISO2": "AQ",
+   "ISO": "ATA",
+   "UN_CODE": "10"
+ },
+ {
+   "label": "Antigua-et-Barbuda",
+   "ISO2": "AG",
+   "ISO": "ATG",
+   "UN_CODE": "28"
+ },
+ {
+   "label": "Argentine",
+   "ISO2": "AR",
+   "ISO": "ARG",
+   "UN_CODE": "32"
+ },
+ {
+   "label": "Arménie",
+   "ISO2": "AM",
+   "ISO": "ARM",
+   "UN_CODE": "51"
+ },
+ {
+   "label": "Aruba",
+   "ISO2": "AW",
+   "ISO": "ABW",
+   "UN_CODE": "533"
+ },
+ {
+   "label": "Australie",
+   "ISO2": "AU",
+   "ISO": "AUS",
+   "UN_CODE": "36"
+ },
+ {
+   "label": "Autriche",
+   "ISO2": "AT",
+   "ISO": "AUT",
+   "UN_CODE": "40"
+ },
+ {
+   "label": "Azerbaïdjan",
+   "ISO2": "AZ",
+   "ISO": "AZE",
+   "UN_CODE": "31"
+ },
+ {
+   "label": "Bahamas",
+   "ISO2": "BS",
+   "ISO": "BHS",
+   "UN_CODE": "44"
+ },
+ {
+   "label": "Bahreïn",
+   "ISO2": "BH",
+   "ISO": "BHR",
+   "UN_CODE": "48"
+ },
+ {
+   "label": "Bangladesh",
+   "ISO2": "BD",
+   "ISO": "BGD",
+   "UN_CODE": "50"
+ },
+ {
+   "label": "Barbade",
+   "ISO2": "BB",
+   "ISO": "BRB",
+   "UN_CODE": "52"
+ },
+ {
+   "label": "Biélorussie",
+   "ISO2": "BY",
+   "ISO": "BLR",
+   "UN_CODE": "112"
+ },
+ {
+   "label": "Belgique",
+   "ISO2": "BE",
+   "ISO": "BEL",
+   "UN_CODE": "56"
+ },
+ {
+   "label": "Belize",
+   "ISO2": "BZ",
+   "ISO": "BLZ",
+   "UN_CODE": "84"
+ },
+ {
+   "label": "Bénin",
+   "ISO2": "BJ",
+   "ISO": "BEN",
+   "UN_CODE": "204"
+ },
+ {
+   "label": "Bermudes",
+   "ISO2": "BM",
+   "ISO": "BMU",
+   "UN_CODE": "60"
+ },
+ {
+   "label": "Bhoutan",
+   "ISO2": "BT",
+   "ISO": "BTN",
+   "UN_CODE": "64"
+ },
+ {
+   "label": "Bolivie",
+   "ISO2": "BO",
+   "ISO": "BOL",
+   "UN_CODE": "68"
+ },
+ {
+   "label": "Bosnie-Herzégovine",
+   "ISO2": "BA",
+   "ISO": "BIH",
+   "UN_CODE": "70"
+ },
+ {
+   "label": "Botswana",
+   "ISO2": "BW",
+   "ISO": "BWA",
+   "UN_CODE": "72"
+ },
+ {
+   "label": "Île Bouvet",
+   "ISO2": "BV",
+   "ISO": "BVT",
+   "UN_CODE": "74"
+ },
+ {
+   "label": "Brésil",
+   "ISO2": "BR",
+   "ISO": "BRA",
+   "UN_CODE": "76"
+ },
+ {
+   "label": "British Virgin Islands",
+   "ISO2": "VG",
+   "ISO": "VGB",
+   "UN_CODE": "92"
+ },
+ {
+   "label": "Territoire britannique de l’Océan Indien",
+   "ISO2": "IO",
+   "ISO": "IOT",
+   "UN_CODE": "86"
+ },
+ {
+   "label": "Brunei Darussalam",
+   "ISO2": "BN",
+   "ISO": "BRN",
+   "UN_CODE": "96"
+ },
+ {
+   "label": "Bulgarie",
+   "ISO2": "BG",
+   "ISO": "BGR",
+   "UN_CODE": "100"
+ },
+ {
+   "label": "Burkina Faso",
+   "ISO2": "BF",
+   "ISO": "BFA",
+   "UN_CODE": "854"
+ },
+ {
+   "label": "Burundi",
+   "ISO2": "BI",
+   "ISO": "BDI",
+   "UN_CODE": "108"
+ },
+ {
+   "label": "Cambodge",
+   "ISO2": "KH",
+   "ISO": "KHM",
+   "UN_CODE": "116"
+ },
+ {
+   "label": "Cameroun",
+   "ISO2": "CM",
+   "ISO": "CMR",
+   "UN_CODE": "120"
+ },
+ {
+   "label": "Canada",
+   "ISO2": "CA",
+   "ISO": "CAN",
+   "UN_CODE": "124"
+ },
+ {
+   "label": "Cap-Vert",
+   "ISO2": "CV",
+   "ISO": "CPV",
+   "UN_CODE": "132"
+ },
+ {
+   "label": "Iles Cayman",
+   "ISO2": "KY",
+   "ISO": "CYM",
+   "UN_CODE": "136"
+ },
+ {
+   "label": "République centrafricaine",
+   "ISO2": "CF",
+   "ISO": "CAF",
+   "UN_CODE": "140"
+ },
+ {
+   "label": "Tchad",
+   "ISO2": "TD",
+   "ISO": "TCD",
+   "UN_CODE": "148"
+ },
+ {
+   "label": "Chili",
+   "ISO2": "CL",
+   "ISO": "CHL",
+   "UN_CODE": "152"
+ },
+ {
+   "label": "Chine",
+   "ISO2": "CN",
+   "ISO": "CHN",
+   "UN_CODE": "156"
+ },
+ {
+   "label": "Hong Kong",
+   "ISO2": "HK",
+   "ISO": "HKG",
+   "UN_CODE": "344"
+ },
+ {
+   "label": "Macao",
+   "ISO2": "MO",
+   "ISO": "MAC",
+   "UN_CODE": "446"
+ },
+ {
+   "label": "Île Christmas",
+   "ISO2": "CX",
+   "ISO": "CXR",
+   "UN_CODE": "162"
+ },
+ {
+   "label": "Îles Cocos",
+   "ISO2": "CC",
+   "ISO": "CCK",
+   "UN_CODE": "166"
+ },
+ {
+   "label": "Colombie",
+   "ISO2": "CO",
+   "ISO": "COL",
+   "UN_CODE": "170"
+ },
+ {
+   "label": "Comores",
+   "ISO2": "KM",
+   "ISO": "COM",
+   "UN_CODE": "174"
+ },
+ {
+   "label": "République du Congo",
+   "ISO2": "CG",
+   "ISO": "COG",
+   "UN_CODE": "178"
+ },
+ {
+   "label": "République démocratique du Congo",
+   "ISO2": "CD",
+   "ISO": "COD",
+   "UN_CODE": "180"
+ },
+ {
+   "label": "Îles Cook",
+   "ISO2": "CK",
+   "ISO": "COK",
+   "UN_CODE": "184"
+ },
+ {
+   "label": "Costa Rica",
+   "ISO2": "CR",
+   "ISO": "CRI",
+   "UN_CODE": "188"
+ },
+ {
+   "label": "Côte d’Ivoire",
+   "ISO2": "CI",
+   "ISO": "CIV",
+   "UN_CODE": "384"
+ },
+ {
+   "label": "Croatie",
+   "ISO2": "HR",
+   "ISO": "HRV",
+   "UN_CODE": "191"
+ },
+ {
+   "label": "Cuba",
+   "ISO2": "CU",
+   "ISO": "CUB",
+   "UN_CODE": "192"
+ },
+ {
+   "label": "Chypre",
+   "ISO2": "CY",
+   "ISO": "CYP",
+   "UN_CODE": "196"
+ },
+ {
+   "label": "République tchèque",
+   "ISO2": "CZ",
+   "ISO": "CZE",
+   "UN_CODE": "203"
+ },
+ {
+   "label": "Danemark",
+   "ISO2": "DK",
+   "ISO": "DNK",
+   "UN_CODE": "208"
+ },
+ {
+   "label": "Djibouti",
+   "ISO2": "DJ",
+   "ISO": "DJI",
+   "UN_CODE": "262"
+ },
+ {
+   "label": "Dominique",
+   "ISO2": "DM",
+   "ISO": "DMA",
+   "UN_CODE": "212"
+ },
+ {
+   "label": "République dominicaine",
+   "ISO2": "DO",
+   "ISO": "DOM",
+   "UN_CODE": "214"
+ },
+ {
+   "label": "Équateur",
+   "ISO2": "EC",
+   "ISO": "ECU",
+   "UN_CODE": "218"
+ },
+ {
+   "label": "Égypte",
+   "ISO2": "EG",
+   "ISO": "EGY",
+   "UN_CODE": "818"
+ },
+ {
+   "label": "Salvador",
+   "ISO2": "SV",
+   "ISO": "SLV",
+   "UN_CODE": "222"
+ },
+ {
+   "label": "Guinée équatoriale",
+   "ISO2": "GQ",
+   "ISO": "GNQ",
+   "UN_CODE": "226"
+ },
+ {
+   "label": "Érythrée",
+   "ISO2": "ER",
+   "ISO": "ERI",
+   "UN_CODE": "232"
+ },
+ {
+   "label": "Estonie",
+   "ISO2": "EE",
+   "ISO": "EST",
+   "UN_CODE": "233"
+ },
+ {
+   "label": "Éthiopie",
+   "ISO2": "ET",
+   "ISO": "ETH",
+   "UN_CODE": "231"
+ },
+ {
+   "label": "Îles Falkland",
+   "ISO2": "FK",
+   "ISO": "FLK",
+   "UN_CODE": "238"
+ },
+ {
+   "label": "Îles Féroé",
+   "ISO2": "FO",
+   "ISO": "FRO",
+   "UN_CODE": "234"
+ },
+ {
+   "label": "Fidji",
+   "ISO2": "FJ",
+   "ISO": "FJI",
+   "UN_CODE": "242"
+ },
+ {
+   "label": "Finlande",
+   "ISO2": "FI",
+   "ISO": "FIN",
+   "UN_CODE": "246"
+ },
+ {
+   "label": "France",
+   "ISO2": "FR",
+   "ISO": "FRA",
+   "UN_CODE": "250"
+ },
+ {
+   "label": "Guyane française",
+   "ISO2": "GF",
+   "ISO": "GUF",
+   "UN_CODE": "254"
+ },
+ {
+   "label": "Polynésie française",
+   "ISO2": "PF",
+   "ISO": "PYF",
+   "UN_CODE": "258"
+ },
+ {
+   "label": "Terres australes et antarctiques françaises",
+   "ISO2": "TF",
+   "ISO": "ATF",
+   "UN_CODE": "260"
+ },
+ {
+   "label": "Gabon",
+   "ISO2": "GA",
+   "ISO": "GAB",
+   "UN_CODE": "266"
+ },
+ {
+   "label": "Gambie",
+   "ISO2": "GM",
+   "ISO": "GMB",
+   "UN_CODE": "270"
+ },
+ {
+   "label": "Géorgie",
+   "ISO2": "GE",
+   "ISO": "GEO",
+   "UN_CODE": "268"
+ },
+ {
+   "label": "Allemagne",
+   "ISO2": "DE",
+   "ISO": "DEU",
+   "UN_CODE": "276"
+ },
+ {
+   "label": "Ghana",
+   "ISO2": "GH",
+   "ISO": "GHA",
+   "UN_CODE": "288"
+ },
+ {
+   "label": "Gibraltar",
+   "ISO2": "GI",
+   "ISO": "GIB",
+   "UN_CODE": "292"
+ },
+ {
+   "label": "Grèce",
+   "ISO2": "GR",
+   "ISO": "GRC",
+   "UN_CODE": "300"
+ },
+ {
+   "label": "Groenland",
+   "ISO2": "GL",
+   "ISO": "GRL",
+   "UN_CODE": "304"
+ },
+ {
+   "label": "Grenade",
+   "ISO2": "GD",
+   "ISO": "GRD",
+   "UN_CODE": "308"
+ },
+ {
+   "label": "Guadeloupe",
+   "ISO2": "GP",
+   "ISO": "GLP",
+   "UN_CODE": "312"
+ },
+ {
+   "label": "Guam",
+   "ISO2": "GU",
+   "ISO": "GUM",
+   "UN_CODE": "316"
+ },
+ {
+   "label": "Guatemala",
+   "ISO2": "GT",
+   "ISO": "GTM",
+   "UN_CODE": "320"
+ },
+ {
+   "label": "Guernesey",
+   "ISO2": "GG",
+   "ISO": "GGY",
+   "UN_CODE": "831"
+ },
+ {
+   "label": "Guinée",
+   "ISO2": "GN",
+   "ISO": "GIN",
+   "UN_CODE": "324"
+ },
+ {
+   "label": "Guinée-Bissau",
+   "ISO2": "GW",
+   "ISO": "GNB",
+   "UN_CODE": "624"
+ },
+ {
+   "label": "Guyane",
+   "ISO2": "GY",
+   "ISO": "GUY",
+   "UN_CODE": "328"
+ },
+ {
+   "label": "Haïti",
+   "ISO2": "HT",
+   "ISO": "HTI",
+   "UN_CODE": "332"
+ },
+ {
+   "label": "Îles Heard-et-MacDonald",
+   "ISO2": "HM",
+   "ISO": "HMD",
+   "UN_CODE": "334"
+ },
+ {
+   "label": "Saint-Siège (Vatican)",
+   "ISO2": "VA",
+   "ISO": "VAT",
+   "UN_CODE": "336"
+ },
+ {
+   "label": "Honduras",
+   "ISO2": "HN",
+   "ISO": "HND",
+   "UN_CODE": "340"
+ },
+ {
+   "label": "Hongrie",
+   "ISO2": "HU",
+   "ISO": "HUN",
+   "UN_CODE": "348"
+ },
+ {
+   "label": "Islande",
+   "ISO2": "IS",
+   "ISO": "ISL",
+   "UN_CODE": "352"
+ },
+ {
+   "label": "Inde",
+   "ISO2": "IN",
+   "ISO": "IND",
+   "UN_CODE": "356"
+ },
+ {
+   "label": "Indonésie",
+   "ISO2": "ID",
+   "ISO": "IDN",
+   "UN_CODE": "360"
+ },
+ {
+   "label": "Iran",
+   "ISO2": "IR",
+   "ISO": "IRN",
+   "UN_CODE": "364"
+ },
+ {
+   "label": "Irak",
+   "ISO2": "IQ",
+   "ISO": "IRQ",
+   "UN_CODE": "368"
+ },
+ {
+   "label": "Irlande",
+   "ISO2": "IE",
+   "ISO": "IRL",
+   "UN_CODE": "372"
+ },
+ {
+   "label": "Ile de Man",
+   "ISO2": "IM",
+   "ISO": "IMN",
+   "UN_CODE": "833"
+ },
+ {
+   "label": "Israël",
+   "ISO2": "IL",
+   "ISO": "ISR",
+   "UN_CODE": "376"
+ },
+ {
+   "label": "Italie",
+   "ISO2": "IT",
+   "ISO": "ITA",
+   "UN_CODE": "380"
+ },
+ {
+   "label": "Jamaïque",
+   "ISO2": "JM",
+   "ISO": "JAM",
+   "UN_CODE": "388"
+ },
+ {
+   "label": "Japon",
+   "ISO2": "JP",
+   "ISO": "JPN",
+   "UN_CODE": "392"
+ },
+ {
+   "label": "Jersey",
+   "ISO2": "JE",
+   "ISO": "JEY",
+   "UN_CODE": "832"
+ },
+ {
+   "label": "Jordanie",
+   "ISO2": "JO",
+   "ISO": "JOR",
+   "UN_CODE": "400"
+ },
+ {
+   "label": "Kazakhstan",
+   "ISO2": "KZ",
+   "ISO": "KAZ",
+   "UN_CODE": "398"
+ },
+ {
+   "label": "Kenya",
+   "ISO2": "KE",
+   "ISO": "KEN",
+   "UN_CODE": "404"
+ },
+ {
+   "label": "Kiribati",
+   "ISO2": "KI",
+   "ISO": "KIR",
+   "UN_CODE": "296"
+ },
+ {
+   "label": "Corée du Nord",
+   "ISO2": "KP",
+   "ISO": "PRK",
+   "UN_CODE": "408"
+ },
+ {
+   "label": "Corée du Sud",
+   "ISO2": "KR",
+   "ISO": "KOR",
+   "UN_CODE": "410"
+ },
+ {
+   "label": "Koweït",
+   "ISO2": "KW",
+   "ISO": "KWT",
+   "UN_CODE": "414"
+ },
+ {
+   "label": "Kirghizistan",
+   "ISO2": "KG",
+   "ISO": "KGZ",
+   "UN_CODE": "417"
+ },
+ {
+   "label": "Laos",
+   "ISO2": "LA",
+   "ISO": "LAO",
+   "UN_CODE": "418"
+ },
+ {
+   "label": "Lettonie",
+   "ISO2": "LV",
+   "ISO": "LVA",
+   "UN_CODE": "428"
+ },
+ {
+   "label": "Liban",
+   "ISO2": "LB",
+   "ISO": "LBN",
+   "UN_CODE": "422"
+ },
+ {
+   "label": "Lesotho",
+   "ISO2": "LS",
+   "ISO": "LSO",
+   "UN_CODE": "426"
+ },
+ {
+   "label": "Libéria",
+   "ISO2": "LR",
+   "ISO": "LBR",
+   "UN_CODE": "430"
+ },
+ {
+   "label": "Libye",
+   "ISO2": "LY",
+   "ISO": "LBY",
+   "UN_CODE": "434"
+ },
+ {
+   "label": "Liechtenstein",
+   "ISO2": "LI",
+   "ISO": "LIE",
+   "UN_CODE": "438"
+ },
+ {
+   "label": "Lituanie",
+   "ISO2": "LT",
+   "ISO": "LTU",
+   "UN_CODE": "440"
+ },
+ {
+   "label": "Luxembourg",
+   "ISO2": "LU",
+   "ISO": "LUX",
+   "UN_CODE": "442"
+ },
+ {
+   "label": "Macédoine",
+   "ISO2": "MK",
+   "ISO": "MKD",
+   "UN_CODE": "807"
+ },
+ {
+   "label": "Madagascar",
+   "ISO2": "MG",
+   "ISO": "MDG",
+   "UN_CODE": "450"
+ },
+ {
+   "label": "Malawi",
+   "ISO2": "MW",
+   "ISO": "MWI",
+   "UN_CODE": "454"
+ },
+ {
+   "label": "Malaisie",
+   "ISO2": "MY",
+   "ISO": "MYS",
+   "UN_CODE": "458"
+ },
+ {
+   "label": "Maldives",
+   "ISO2": "MV",
+   "ISO": "MDV",
+   "UN_CODE": "462"
+ },
+ {
+   "label": "Mali",
+   "ISO2": "ML",
+   "ISO": "MLI",
+   "UN_CODE": "466"
+ },
+ {
+   "label": "Malte",
+   "ISO2": "MT",
+   "ISO": "MLT",
+   "UN_CODE": "470"
+ },
+ {
+   "label": "Îles Marshall",
+   "ISO2": "MH",
+   "ISO": "MHL",
+   "UN_CODE": "584"
+ },
+ {
+   "label": "Martinique",
+   "ISO2": "MQ",
+   "ISO": "MTQ",
+   "UN_CODE": "474"
+ },
+ {
+   "label": "Mauritanie",
+   "ISO2": "MR",
+   "ISO": "MRT",
+   "UN_CODE": "478"
+ },
+ {
+   "label": "Maurice",
+   "ISO2": "MU",
+   "ISO": "MUS",
+   "UN_CODE": "480"
+ },
+ {
+   "label": "Mayotte",
+   "ISO2": "YT",
+   "ISO": "MYT",
+   "UN_CODE": "175"
+ },
+ {
+   "label": "Mexique",
+   "ISO2": "MX",
+   "ISO": "MEX",
+   "UN_CODE": "484"
+ },
+ {
+   "label": "Micronésie",
+   "ISO2": "FM",
+   "ISO": "FSM",
+   "UN_CODE": "583"
+ },
+ {
+   "label": "Moldavie",
+   "ISO2": "MD",
+   "ISO": "MDA",
+   "UN_CODE": "498"
+ },
+ {
+   "label": "Monaco",
+   "ISO2": "MC",
+   "ISO": "MCO",
+   "UN_CODE": "492"
+ },
+ {
+   "label": "Mongolie",
+   "ISO2": "MN",
+   "ISO": "MNG",
+   "UN_CODE": "496"
+ },
+ {
+   "label": "Monténégro",
+   "ISO2": "ME",
+   "ISO": "MNE",
+   "UN_CODE": "499"
+ },
+ {
+   "label": "Montserrat",
+   "ISO2": "MS",
+   "ISO": "MSR",
+   "UN_CODE": "500"
+ },
+ {
+   "label": "Maroc",
+   "ISO2": "MA",
+   "ISO": "MAR",
+   "UN_CODE": "504"
+ },
+ {
+   "label": "Mozambique",
+   "ISO2": "MZ",
+   "ISO": "MOZ",
+   "UN_CODE": "508"
+ },
+ {
+   "label": "Myanmar",
+   "ISO2": "MM",
+   "ISO": "MMR",
+   "UN_CODE": "104"
+ },
+ {
+   "label": "Namibie",
+   "ISO2": "NA",
+   "ISO": "NAM",
+   "UN_CODE": "516"
+ },
+ {
+   "label": "Nauru",
+   "ISO2": "NR",
+   "ISO": "NRU",
+   "UN_CODE": "520"
+ },
+ {
+   "label": "Népal",
+   "ISO2": "NP",
+   "ISO": "NPL",
+   "UN_CODE": "524"
+ },
+ {
+   "label": "Pays-Bas",
+   "ISO2": "NL",
+   "ISO": "NLD",
+   "UN_CODE": "528"
+ },
+ {
+   "label": "Nouvelle-Calédonie",
+   "ISO2": "NC",
+   "ISO": "NCL",
+   "UN_CODE": "540"
+ },
+ {
+   "label": "Nouvelle-Zélande",
+   "ISO2": "NZ",
+   "ISO": "NZL",
+   "UN_CODE": "554"
+ },
+ {
+   "label": "Nicaragua",
+   "ISO2": "NI",
+   "ISO": "NIC",
+   "UN_CODE": "558"
+ },
+ {
+   "label": "Niger",
+   "ISO2": "NE",
+   "ISO": "NER",
+   "UN_CODE": "562"
+ },
+ {
+   "label": "Nigeria",
+   "ISO2": "NG",
+   "ISO": "NGA",
+   "UN_CODE": "566"
+ },
+ {
+   "label": "Niue",
+   "ISO2": "NU",
+   "ISO": "NIU",
+   "UN_CODE": "570"
+ },
+ {
+   "label": "Île Norfolk",
+   "ISO2": "NF",
+   "ISO": "NFK",
+   "UN_CODE": "574"
+ },
+ {
+   "label": "Îles Mariannes du Nord",
+   "ISO2": "MP",
+   "ISO": "MNP",
+   "UN_CODE": "580"
+ },
+ {
+   "label": "Norvège",
+   "ISO2": "NO",
+   "ISO": "NOR",
+   "UN_CODE": "578"
+ },
+ {
+   "label": "Oman",
+   "ISO2": "OM",
+   "ISO": "OMN",
+   "UN_CODE": "512"
+ },
+ {
+   "label": "Pakistan",
+   "ISO2": "PK",
+   "ISO": "PAK",
+   "UN_CODE": "586"
+ },
+ {
+   "label": "Palau",
+   "ISO2": "PW",
+   "ISO": "PLW",
+   "UN_CODE": "585"
+ },
+ {
+   "label": "Palestine",
+   "ISO2": "PS",
+   "ISO": "PSE",
+   "UN_CODE": "275"
+ },
+ {
+   "label": "Panama",
+   "ISO2": "PA",
+   "ISO": "PAN",
+   "UN_CODE": "591"
+ },
+ {
+   "label": "Papouasie-Nouvelle-Guinée",
+   "ISO2": "PG",
+   "ISO": "PNG",
+   "UN_CODE": "598"
+ },
+ {
+   "label": "Paraguay",
+   "ISO2": "PY",
+   "ISO": "PRY",
+   "UN_CODE": "600"
+ },
+ {
+   "label": "Pérou",
+   "ISO2": "PE",
+   "ISO": "PER",
+   "UN_CODE": "604"
+ },
+ {
+   "label": "Philippines",
+   "ISO2": "PH",
+   "ISO": "PHL",
+   "UN_CODE": "608"
+ },
+ {
+   "label": "Pitcairn",
+   "ISO2": "PN",
+   "ISO": "PCN",
+   "UN_CODE": "612"
+ },
+ {
+   "label": "Pologne",
+   "ISO2": "PL",
+   "ISO": "POL",
+   "UN_CODE": "616"
+ },
+ {
+   "label": "Portugal",
+   "ISO2": "PT",
+   "ISO": "PRT",
+   "UN_CODE": "620"
+ },
+ {
+   "label": "Puerto Rico",
+   "ISO2": "PR",
+   "ISO": "PRI",
+   "UN_CODE": "630"
+ },
+ {
+   "label": "Qatar",
+   "ISO2": "QA",
+   "ISO": "QAT",
+   "UN_CODE": "634"
+ },
+ {
+   "label": "Réunion",
+   "ISO2": "RE",
+   "ISO": "REU",
+   "UN_CODE": "638"
+ },
+ {
+   "label": "Roumanie",
+   "ISO2": "RO",
+   "ISO": "ROU",
+   "UN_CODE": "642"
+ },
+ {
+   "label": "Russie",
+   "ISO2": "RU",
+   "ISO": "RUS",
+   "UN_CODE": "643"
+ },
+ {
+   "label": "Rwanda",
+   "ISO2": "RW",
+   "ISO": "RWA",
+   "UN_CODE": "646"
+ },
+ {
+   "label": "Saint-Barthélemy",
+   "ISO2": "BL",
+   "ISO": "BLM",
+   "UN_CODE": "652"
+ },
+ {
+   "label": "Sainte-Hélène",
+   "ISO2": "SH",
+   "ISO": "SHN",
+   "UN_CODE": "654"
+ },
+ {
+   "label": "Saint-Kitts-et-Nevis",
+   "ISO2": "KN",
+   "ISO": "KNA",
+   "UN_CODE": "659"
+ },
+ {
+   "label": "Sainte-Lucie",
+   "ISO2": "LC",
+   "ISO": "LCA",
+   "UN_CODE": "662"
+ },
+ {
+   "label": "Saint-Martin (partie française)",
+   "ISO2": "MF",
+   "ISO": "MAF",
+   "UN_CODE": "663"
+ },
+ {
+   "label": "Saint-Martin (partie néerlandaise)",
+   "ISO2": "SX",
+   "ISO": "SXM",
+   "UN_CODE": "534"
+ },
+ {
+   "label": "Saint-Pierre-et-Miquelon",
+   "ISO2": "PM",
+   "ISO": "SPM",
+   "UN_CODE": "666"
+ },
+ {
+   "label": "Saint-Vincent-et-les Grenadines",
+   "ISO2": "VC",
+   "ISO": "VCT",
+   "UN_CODE": "670"
+ },
+ {
+   "label": "Samoa",
+   "ISO2": "WS",
+   "ISO": "WSM",
+   "UN_CODE": "882"
+ },
+ {
+   "label": "Saint-Marin",
+   "ISO2": "SM",
+   "ISO": "SMR",
+   "UN_CODE": "674"
+ },
+ {
+   "label": "Sao Tomé-et-Principe",
+   "ISO2": "ST",
+   "ISO": "STP",
+   "UN_CODE": "678"
+ },
+ {
+   "label": "Arabie Saoudite",
+   "ISO2": "SA",
+   "ISO": "SAU",
+   "UN_CODE": "682"
+ },
+ {
+   "label": "Sénégal",
+   "ISO2": "SN",
+   "ISO": "SEN",
+   "UN_CODE": "686"
+ },
+ {
+   "label": "Serbie",
+   "ISO2": "RS",
+   "ISO": "SRB",
+   "UN_CODE": "688"
+ },
+ {
+   "label": "Seychelles",
+   "ISO2": "SC",
+   "ISO": "SYC",
+   "UN_CODE": "690"
+ },
+ {
+   "label": "Sierra Leone",
+   "ISO2": "SL",
+   "ISO": "SLE",
+   "UN_CODE": "694"
+ },
+ {
+   "label": "Singapour",
+   "ISO2": "SG",
+   "ISO": "SGP",
+   "UN_CODE": "702"
+ },
+ {
+   "label": "Slovaquie",
+   "ISO2": "SK",
+   "ISO": "SVK",
+   "UN_CODE": "703"
+ },
+ {
+   "label": "Slovénie",
+   "ISO2": "SI",
+   "ISO": "SVN",
+   "UN_CODE": "705"
+ },
+ {
+   "label": "Îles Salomon",
+   "ISO2": "SB",
+   "ISO": "SLB",
+   "UN_CODE": "90"
+ },
+ {
+   "label": "Somalie",
+   "ISO2": "SO",
+   "ISO": "SOM",
+   "UN_CODE": "706"
+ },
+ {
+   "label": "Afrique du Sud",
+   "ISO2": "ZA",
+   "ISO": "ZAF",
+   "UN_CODE": "710"
+ },
+ {
+   "label": "Géorgie du Sud et les îles Sandwich du Sud",
+   "ISO2": "GS",
+   "ISO": "SGS",
+   "UN_CODE": "239"
+ },
+ {
+   "label": "Sud-Soudan",
+   "ISO2": "SS",
+   "ISO": "SSD",
+   "UN_CODE": "728"
+ },
+ {
+   "label": "Espagne",
+   "ISO2": "ES",
+   "ISO": "ESP",
+   "UN_CODE": "724"
+ },
+ {
+   "label": "Sri Lanka",
+   "ISO2": "LK",
+   "ISO": "LKA",
+   "UN_CODE": "144"
+ },
+ {
+   "label": "Soudan",
+   "ISO2": "SD",
+   "ISO": "SDN",
+   "UN_CODE": "736"
+ },
+ {
+   "label": "Suriname",
+   "ISO2": "SR",
+   "ISO": "SUR",
+   "UN_CODE": "740"
+ },
+ {
+   "label": "Svalbard et Jan Mayen",
+   "ISO2": "SJ",
+   "ISO": "SJM",
+   "UN_CODE": "744"
+ },
+ {
+   "label": "Swaziland",
+   "ISO2": "SZ",
+   "ISO": "SWZ",
+   "UN_CODE": "748"
+ },
+ {
+   "label": "Suède",
+   "ISO2": "SE",
+   "ISO": "SWE",
+   "UN_CODE": "752"
+ },
+ {
+   "label": "Suisse",
+   "ISO2": "CH",
+   "ISO": "CHE",
+   "UN_CODE": "756"
+ },
+ {
+   "label": "Syrie",
+   "ISO2": "SY",
+   "ISO": "SYR",
+   "UN_CODE": "760"
+ },
+ {
+   "label": "Taiwan",
+   "ISO2": "TW",
+   "ISO": "TWN",
+   "UN_CODE": "158"
+ },
+ {
+   "label": "Tadjikistan",
+   "ISO2": "TJ",
+   "ISO": "TJK",
+   "UN_CODE": "762"
+ },
+ {
+   "label": "Tanzanie",
+   "ISO2": "TZ",
+   "ISO": "TZA",
+   "UN_CODE": "834"
+ },
+ {
+   "label": "Thaïlande",
+   "ISO2": "TH",
+   "ISO": "THA",
+   "UN_CODE": "764"
+ },
+ {
+   "label": "Timor-Leste",
+   "ISO2": "TL",
+   "ISO": "TLS",
+   "UN_CODE": "626"
+ },
+ {
+   "label": "Togo",
+   "ISO2": "TG",
+   "ISO": "TGO",
+   "UN_CODE": "768"
+ },
+ {
+   "label": "Tokelau",
+   "ISO2": "TK",
+   "ISO": "TKL",
+   "UN_CODE": "772"
+ },
+ {
+   "label": "Tonga",
+   "ISO2": "TO",
+   "ISO": "TON",
+   "UN_CODE": "776"
+ },
+ {
+   "label": "Trinité-et-Tobago",
+   "ISO2": "TT",
+   "ISO": "TTO",
+   "UN_CODE": "780"
+ },
+ {
+   "label": "Tunisie",
+   "ISO2": "TN",
+   "ISO": "TUN",
+   "UN_CODE": "788"
+ },
+ {
+   "label": "Turquie",
+   "ISO2": "TR",
+   "ISO": "TUR",
+   "UN_CODE": "792"
+ },
+ {
+   "label": "Turkménistan",
+   "ISO2": "TM",
+   "ISO": "TKM",
+   "UN_CODE": "795"
+ },
+ {
+   "label": "Îles Turques-et-Caïques",
+   "ISO2": "TC",
+   "ISO": "TCA",
+   "UN_CODE": "796"
+ },
+ {
+   "label": "Tuvalu",
+   "ISO2": "TV",
+   "ISO": "TUV",
+   "UN_CODE": "798"
+ },
+ {
+   "label": "Ouganda",
+   "ISO2": "UG",
+   "ISO": "UGA",
+   "UN_CODE": "800"
+ },
+ {
+   "label": "Ukraine",
+   "ISO2": "UA",
+   "ISO": "UKR",
+   "UN_CODE": "804"
+ },
+ {
+   "label": "Émirats Arabes Unis",
+   "ISO2": "AE",
+   "ISO": "ARE",
+   "UN_CODE": "784"
+ },
+ {
+   "label": "Royaume-Uni",
+   "ISO2": "GB",
+   "ISO": "GBR",
+   "UN_CODE": "826"
+ },
+ {
+   "label": "États-Unis",
+   "ISO2": "US",
+   "ISO": "USA",
+   "UN_CODE": "840"
+ },
+ {
+   "label": "Îles mineures éloignées des États-Unis",
+   "ISO2": "UM",
+   "ISO": "UMI",
+   "UN_CODE": "581"
+ },
+ {
+   "label": "Uruguay",
+   "ISO2": "UY",
+   "ISO": "URY",
+   "UN_CODE": "858"
+ },
+ {
+   "label": "Ouzbékistan",
+   "ISO2": "UZ",
+   "ISO": "UZB",
+   "UN_CODE": "860"
+ },
+ {
+   "label": "Vanuatu",
+   "ISO2": "VU",
+   "ISO": "VUT",
+   "UN_CODE": "548"
+ },
+ {
+   "label": "Venezuela",
+   "ISO2": "VE",
+   "ISO": "VEN",
+   "UN_CODE": "862"
+ },
+ {
+   "label": "Viêt Nam",
+   "ISO2": "VN",
+   "ISO": "VNM",
+   "UN_CODE": "704"
+ },
+ {
+   "label": "Îles Vierges américaines",
+   "ISO2": "VI",
+   "ISO": "VIR",
+   "UN_CODE": "850"
+ },
+ {
+   "label": "Wallis-et-Futuna",
+   "ISO2": "WF",
+   "ISO": "WLF",
+   "UN_CODE": "876"
+ },
+ {
+   "label": "Sahara occidental",
+   "ISO2": "EH",
+   "ISO": "ESH",
+   "UN_CODE": "732"
+ },
+ {
+   "label": "Yémen",
+   "ISO2": "YE",
+   "ISO": "YEM",
+   "UN_CODE": "887"
+ },
+ {
+   "label": "Zambie",
+   "ISO2": "ZM",
+   "ISO": "ZMB",
+   "UN_CODE": "894"
+ },
+ {
+   "label": "Zimbabwe",
+   "ISO2": "ZW",
+   "ISO": "ZWE",
+   "UN_CODE": "716"
+ }
+]

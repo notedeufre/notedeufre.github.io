@@ -1,0 +1,158 @@
+<!doctype html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang=""> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8" lang=""> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9" lang=""> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang=""> <!--<![endif]-->
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title>Arabes & musulmans </title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <link rel="stylesheet" href="bower_components/font-awesome/css/font-awesome.min.css">
+        <link rel="stylesheet" href="bower_components/c3/c3.min.css">
+
+        <link rel="stylesheet" href="css/normalize.min.css">
+        <link rel="stylesheet" href="css/main.css">
+
+        <link rel="icon" type="image/png" href="favicon.png" />
+
+
+        <link href='https://fonts.googleapis.com/css?family=Cabin:400,600,700,500' rel='stylesheet' type='text/css'>
+        
+        <script src="js/vendor/modernizr-2.8.3-respond-1.4.2.min.js"></script>
+    </head>
+    <body>
+        <!--[if lt IE 8]>
+            <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+        <![endif]-->
+
+        <div class="header-container">
+            <header class="wrapper clearfix">
+                <ul class="social">
+                    <li><a href="#"><i class="fa fa-facebook-square" aria-hidden="true"></i></a></li>
+                    <li><a href="#"><i class="fa fa-twitter-square" aria-hidden="true"></i></a></li>
+                </ul>
+            </header>
+        </div>
+
+        <div class="main-container">
+            <div class="main wrapper clearfix">
+
+                <header>
+                    <h1>Arabes & Musulmans</h1>
+                </header>
+
+                <div class="row">
+                    
+                    <div class="col-md-6">
+                        <article class="viz">
+                            
+                            <section>
+                                <h2>Arabes, 460 millions d'indivividus</h2>
+                                <p align="center">*Individus* formant un peuple, originaire depuis l’Antiquité de la péninsule arabique</p>
+
+                                <div class="row">
+                                    <div class="col-md-6">
+                                        <h3 class="f32">Les 22 pays de la Ligue Arabe</h3>
+                                        <ul class="list-arabs f32"></ul>
+                                        <p align="center">
+                                            <i class="fa fa-plus" aria-hidden="true"></i><br>
+                                            diaspora
+                                        </p>
+                                    </div>
+
+                                    <div class="col-md-6">
+                                         <h3 class="f32">Répartition des arabes par religions</h3>
+                                         <div id="pie"></div>
+                                    </div>
+
+                                </div>
+
+                                <div class="row">
+                                    <div class="col-md-12">
+                                         <h3 class="f32">Répartition geographique des arabes</h3>
+                                        <div id="map1"></div>
+                                    </div>
+
+                                </div>
+
+                            </section>
+
+                            
+                        </article>
+                    </div>
+
+                    <div class="col-md-6">
+                        <article class="viz">
+                            <section>
+                                <h2>Musulmans, 1,6 milliards d'individus</h2>
+                                <p align="center">Individus suivant les préceptes de l’Islam.</p>
+
+
+                                <div class="row">
+                                    <div class="col-md-6">
+                                         <h3 class="f32">Top 10 par pays</h3>
+                                         <div id="bars"></div>
+                                    </div>
+
+                                    <div class="col-md-6">
+                                         <h3 class="f32">Répartition des musulmans par pays</h3>
+                                         <div id="pie2"></div>
+                                    </div>
+                                </div>
+
+                                <div class="row">
+                                    <div class="col-md-12">
+                                         <h3 class="f32">Répartition geographique des musulmans <span>(en nombre absolu)</span></h3>
+                                        <div id="map2"></div>
+                                    </div>
+
+                                </div>
+
+                            </section>
+
+                        </article>
+                    </div>
+
+                </div>
+
+
+
+                <article class="about">
+                    
+                    <footer>
+                        <h2>A propos</h2>
+                        <p> <i class="fa fa-github" aria-hidden="true"></i> <strong>:: Coding tools</strong> : <a href="https://bower.io/" target="_blank">bower</a>, html + js + css & hebergé sur <a href="https://github.com/notedeufre/notedeufre.github.io/tree/master/01_ArabesMusulmans" target="_blank">github</a> .</p>
+                        <p> <i class="fa fa-html5" aria-hidden="true"></i> <strong>:: Design/UX</strong> : <a href="http://www.initializr.com/" target="_blank">initializr</a> .</p>
+                        <p><i class="fa fa-database" aria-hidden="true"></i> <strong>:: Data</strong> : thread from <a href="https://twitter.com/lordmahammer/status/1075784870788587521">Nicolas Moreau</a> </p>
+                    </footer>
+
+                </article>
+
+            </div> <!-- #main -->
+        </div> <!-- #main-container -->
+
+        <div class="footer-container">
+            <footer class="wrapper">
+                <p class="center">2018 - Made with love by <a href="https://twitter.com/notedeufre" target="_blank">@notedeufre </a></p>
+            </footer>
+        </div>
+
+        <script src="bower_components/jquery/dist/jquery.min.js"></script>
+        <script src="bower_components/d3/d3.min.js"></script>
+        <script src="bower_components/c3/c3.min.js"></script>
+        <script src="bower_components/colorbrewer/colorbrewer.js"></script>
+
+        <script src="js/vendor/topojson.v0.min.js"></script>
+        <script src="js/vendor/queue.min.js"></script>
+        <script src="js/vendor/d3.geo.projection.min.js"></script>
+        <script src="js/vendor/CanGraph.js"></script>
+        <script src="js/vendor/CanMapGraphv2.js"></script>
+
+        <script src="js/functions.js"></script>
+        <script src="js/main.js"></script>
+
+    </body>
+</html>

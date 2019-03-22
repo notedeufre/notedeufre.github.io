@@ -1,0 +1,165 @@
+<!doctype html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang=""> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8" lang=""> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9" lang=""> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang=""> <!--<![endif]-->
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title>Champions cyclistes - #lesdecodeurs </title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <link rel="stylesheet" href="bower_components/font-awesome/css/font-awesome.min.css">
+        <link rel="stylesheet" href="bower_components/c3/c3.min.css">
+
+        <link rel="stylesheet" href="css/normalize.min.css">
+        <link rel="stylesheet" href="css/main.css">
+
+        <link rel="icon" type="image/png" href="favicon.png" />
+
+
+        <link href='https://fonts.googleapis.com/css?family=Cabin:400,600,700,500' rel='stylesheet' type='text/css'>
+        
+        <script src="js/vendor/modernizr-2.8.3-respond-1.4.2.min.js"></script>
+    </head>
+    <body>
+        <!--[if lt IE 8]>
+            <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+        <![endif]-->
+
+        <div class="header-container">
+            <header class="wrapper clearfix">
+                <h1 class="title">
+                    <a href="/" class="circle"><img src="img/logo.png" title="Tour de france"></a>
+                    Champions cyclistes
+                </h1>
+                <ul class="social">
+                    <li><a href="#"><i class="fa fa-facebook-square" aria-hidden="true"></i></a></li>
+                    <li><a href="#"><i class="fa fa-twitter-square" aria-hidden="true"></i></a></li>
+                </ul>
+            </header>
+        </div>
+
+        <div class="main-container">
+            <div class="main wrapper clearfix">
+
+                <header>
+                    <h1>Découvrez les vainqueurs de l'histoire du Tour</h1>
+                    <p class="center">Selectionnez <select name="year" id="select-year"><option value="">votre année de naissance</option></select> afin de découvrir les différents vainqueurs. </p>
+                </header>
+                
+                <article class="viz">
+                    
+                    <section>
+                        <h2>Résultats</h2>
+                        
+                        <div class="row">
+                            <div class="cycler" id="container-winner">
+                                <h3>Vainqueur</h3>
+                                <img src="img/yellow.png" title="Vainqueur du tour">
+                                <h4 id="winner"></h4>
+                            </div>
+                            <div class="cycler" id="container-climber">
+                                <h3>Top grimpeur</h3>
+                                <img src="img/red.png" title="Meilleur grimpeur">
+                                <h4 id="climber"></h4>
+                            </div> 
+                            <div class="cycler" id="container-sprinter">
+                                <h3>Top sprinter</h3>
+                                <img src="img/green.png" title="Meilleur sprinter">
+                                <h4 id="sprinter"></h4>
+                            </div>
+                            <div class="cycler" id="container-youth">
+                                <h3>Meilleur jeune</h3>
+                                <img src="img/blue.png" title="Meilleur jeune">
+                                <h4 id="youth"></h4>
+                            </div>
+                        </div>
+                    </section>
+
+                    <section class="container-statistics">
+                        <h2>Statistiques</h2>
+                        <div class="row">
+                            <div class="dataviz">
+                                <h3>Nombres d'étapes</h3>
+                                <div class="step">
+                                    <span class="figure" id="nb-step"> 12 </span> <ul id="list-nb-step">
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="dataviz">
+                                <h3>Vitesse moyenne</h3>
+                                <div id="speed"></div>
+                            </div>
+                        </div>
+                    </section>
+
+                    
+
+                </article>
+
+                <aside class="viz">
+                    <h2> Distance </h2>
+                    <p><span class="figure" id="nb-distance"> 0 </span></p>
+                    <div id="distance">
+
+                    </div>
+                </aside>
+
+                <article class="disclaimer">
+                    <section>
+                        <div class="row">
+                            <h2> Notes et références </h2>
+                            <p><ol class="legend">
+
+        <li> Vitesse moyenne du vainqueur du Tour. Source : Coll., Tour de France, 100 ans, Paris, L'Équipe, 2003, 3 tomes.</li>
+        <li>Victoire sur tapis vert prononcée le 2 décembre 1904 (plus de quatre mois après l’arrivée) à la suite du déclassement pour triche des quatre premiers du classement (Maurice Garin qui était premier, Lucien Pothier, César Garin et Hippolyte Aucouturier).</li>
+        <li> Le Danois Bjarne Riis, de l'équipe Telekom, est retiré du palmarès sur le site letour.fr le 7 juin 2007, après qu'il a avoué avoir pris de l'EPO. Mais finalement, le 4 juillet 2008, en reconnaissance de ces aveux, son nom est remis par les organisateurs du Tour de France sur la liste des vainqueurs, avec sous son nom mention de ses aveux de dopage, cf. cet article de Sport24.com.</li>
+        <li> Titre de Lance Armstrong révoqué par l'UCI le 22 octobre 2012 pour dopage.</li>
+        <li> « Sept éditions sans vainqueur » sur lequipe.fr,‎ 26 octobre 2012 (consulté le 26 octobre 2012)</li>
+        <li> Victoire attribuée a posteriori, après la disqualification de Floyd Landis contrôlé positif à la testostérone lors du Tour.</li>
+        <li> Bernhard Kohl est déclassé de ce prix pour dopage. Selon le règlement antidopage alors en vigueur, l'UCI réattribue le prix à Sastre même si le Tour de France le laisse sans vainqueur dans sa documentation.</li>
+        <li> Franco Pellizotti est déclassé de ce prix pour violation des règles antidopages. Selon le règlement antidopage alors en vigueur, l'UCI réattribue le prix à Martínez même si le Tour de France le laisse sans vainqueur dans sa documentation.</li>
+        <li> Romain Bonte, « Contador suspendu deux ans » sur France Télévisions Sport ‎ 6 février 2012 (consulté le 6 février 2012)</li>
+        <li> <a href="http://archive.wikiwix.com/cache/?url=http%3A%2F%2Fledicodutour.perso.sfr.fr%2Fstatistiques%2Fechappees.htm">archive</a></li>
+        <li> http://www.ladepeche.fr/article/2008/07/08/463215-tour-de-france-frederic-vichot-ca-reste-un-jour-exceptionnel.html [archive]</li>
+        <li> a et b « 10 anecdotes sur le Tour de France » linternaute.com, juillet 2007.</li>
+        <li> Les 10 et 80 étaient respectivement les numéros de dossard d’Odile Defraye en 1912 et de Roger Walkowiak en 1956, ce sont des numéros de dossard qui ne sont actuellement plus attribués, chaque équipe étant constituée de neuf coureurs, l’organisation n’attribue plus de dossard avec un numéro ayant un zéro en dernière position.</li>
+                            </ol>
+                            </p>
+                        </div>
+
+                    </section>
+
+                </article>
+
+
+                <article class="about">
+                    
+                    <footer>
+                        <h2>A propos</h2>
+                        <p> <i class="fa fa-github" aria-hidden="true"></i> <strong>:: Coding tools</strong> : <a href="https://bower.io/" target="_blank">bower</a>, html + js + css & hebergé sur <a href="https://github.com/fredericlam/fredericlam.github.io/tree/master/04_ChampionsCyclistes" target="_blank">github</a> .</p>
+                        <p> <i class="fa fa-html5" aria-hidden="true"></i> <strong>:: Design/UX</strong> : <a href="http://www.initializr.com/" target="_blank">initializr</a> .</p>
+                        <p><i class="fa fa-database" aria-hidden="true"></i> <strong>:: Data</strong> : <a href="https://fr.wikipedia.org/wiki/Palmar%C3%A8s_du_Tour_de_France">wikipedia</a> (les données ont été extraites depuis la table html, vers un format json via la library <a href="http://lightswitch05.github.io/table-to-json/" target="_blank">Table-to-json</a>. Un traitement a été effectué sur des champs tel que année/classement) .</p>
+                        <p><i class="fa fa-picture-o" aria-hidden="true"></i><strong>:: Materiel(s)</strong> : icons from <a href="https://twitter.com/rfaura_" target="_blank"> @rfaura_ </a>, logos/colors from <a href="http://www.letour.fr/fr/" target="_blank">Tour de france</a> </p>
+                    </footer>
+
+                </article>
+
+            </div> <!-- #main -->
+        </div> <!-- #main-container -->
+
+        <div class="footer-container">
+            <footer class="wrapper">
+                <p class="center">2016 - Made with love by <a href="https://twitter.com/fredericlam" target="_blank">@fredericlam </a> : Assistant Informatics Web at <a href="http://www.iarc.fr" target="_blank">@iarc</a> / <a href="http://www.who.int/" target="_blank">@who</a></p>
+            </footer>
+        </div>
+
+        <script src="bower_components/jquery/dist/jquery.min.js"></script>
+        <script src="bower_components/d3/d3.min.js"></script>
+        <script src="bower_components/c3/c3.min.js"></script>
+        <script src="js/main.js"></script>
+
+    </body>
+</html>

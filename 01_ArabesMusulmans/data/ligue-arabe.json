@@ -1,0 +1,178 @@
+[
+  {
+    "ISO": "PSE",
+    "ISO2": "PS",
+    "label": "Palestine",
+    "population": 4816500,
+    "superficie": 6020,
+    "HDI": 0.686
+  },
+  {
+    "ISO": "QAT",
+    "ISO2": "QA",
+    "label": "Qatar",
+    "population": 2401600,
+    "superficie": 11,
+    "HDI": 586
+  },
+  {
+    "ISO": "ARE",
+    "ISO2": "AE",
+    "label": "Émirats Arabes Unis",
+    "population": 9446000,
+    "superficie": 83600,
+    "HDI": 0.818
+  },
+  {
+    "ISO": "BHR",
+    "ISO2": "BH",
+    "label": "Bahreïn",
+    "population": 1404900,
+    "superficie": 758,
+    "HDI": 0.796
+  },
+  {
+    "ISO": "KWT",
+    "ISO2": "KW",
+    "label": "Koweït",
+    "population": 4183660,
+    "superficie": 17818,
+    "HDI": 0.79
+  },
+  {
+    "ISO": "SAU",
+    "ISO2": "SA",
+    "label": "Arabie Saoudite",
+    "population": 33554343,
+    "superficie": 2149690,
+    "HDI": 0.782
+  },
+  {
+    "ISO": "LBY",
+    "ISO2": "LY",
+    "label": "Libye",
+    "population": 6653000,
+    "superficie": 1759540,
+    "HDI": 0.769
+  },
+  {
+    "ISO": "LBN",
+    "ISO2": "LB",
+    "label": "Liban",
+    "population": 6229794,
+    "superficie": 10452,
+    "HDI": 0.745
+  },
+  {
+    "ISO": "OMN",
+    "ISO2": "OM",
+    "label": "Oman",
+    "population": 4613241,
+    "superficie": 309500,
+    "HDI": 0.731
+  },
+  {
+    "ISO": "DZA",
+    "ISO2": "DZ",
+    "label": "Algérie",
+    "population": 42008054,
+    "superficie": 2381741,
+    "HDI": 0.713
+  },
+  {
+    "ISO": "TUN",
+    "ISO2": "TN",
+    "label": "Tunisie",
+    "population": 11446300,
+    "superficie": 163610,
+    "HDI": 0.712
+  },
+  {
+    "ISO": "JOR",
+    "ISO2": "JO",
+    "label": "Jordanie",
+    "population": 6706051,
+    "superficie": 89342,
+    "HDI": 0.7
+  },
+  {
+    "ISO": "EGY",
+    "ISO2": "EG",
+    "label": "Égypte",
+    "population": 99375741,
+    "superficie": 1001450,
+    "HDI": 0.662
+  },
+  {
+    "ISO": "SYR",
+    "ISO2": "SY",
+    "label": "Syrie",
+    "population": 18090242,
+    "superficie": 185180,
+    "HDI": 0.648
+  },
+  {
+    "ISO": "MAR",
+    "ISO2": "MA",
+    "label": "Morocco",
+    "population": 36069786,
+    "superficie": 446550,
+    "HDI": 0.591
+  },
+  {
+    "ISO": "IRQ",
+    "ISO2": "IQ",
+    "label": "Irak",
+    "population": 39339753,
+    "superficie": 438317,
+    "HDI": 0.59
+  },
+  {
+    "ISO": "MRT",
+    "ISO2": "MR",
+    "label": "Mauritanie",
+    "population": 3758751,
+    "superficie": 1030700,
+    "HDI": 0.467
+  },
+  {
+    "ISO": "YEM",
+    "ISO2": "YE",
+    "label": "Yémen",
+    "population": 28036829,
+    "superficie": 527968,
+    "HDI": 0.458
+  },
+  {
+    "ISO": "DJI",
+    "ISO2": "DJ",
+    "label": "Djibouti",
+    "population": 907127,
+    "superficie": 23200,
+    "HDI": 0.445
+  },
+  {
+    "ISO": "COM",
+    "ISO2": "KM",
+    "label": "Comores",
+    "population": 1071229,
+    "superficie": 2235,
+    "HDI": 0.429
+  },
+  {
+    "ISO": "SDN",
+    "ISO2": "PSE",
+    "label": "SD",
+    "population": 41511526,
+    "superficie": 1861484,
+    "HDI": 0.414
+  },
+  {
+    "ISO": "SOM",
+    "ISO2": "SO",
+    "label": "Somalie",
+    "population": 12316895,
+    "superficie": 637657,
+    "HDI": 0.364
+  }
+]
