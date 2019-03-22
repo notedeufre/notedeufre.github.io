@@ -91,7 +91,7 @@ var app = new Vue({
             this.journalists = this.settings.data.journalists ; 
 
             this.journalist = this.journalists.sample() ; 
-            this.p_j = "/assets/images/journalists/"+this.journalist.picture ; 
+            this.p_j = "assets/images/journalists/"+this.journalist.picture ; 
             // console.info( this.journalist) ; 
             this.q_j = '<i class="quote left icon"></i>'+this.journalist.questions.sample()+'<i class="quote right icon"></i>' ; 
 
