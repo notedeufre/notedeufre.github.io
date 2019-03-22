@@ -1,0 +1,194 @@
+<!doctype html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang=""> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8" lang=""> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9" lang=""> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang=""> <!--<![endif]-->
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title> Aulas Tweet Generator </title>
+        <meta name="description" content="Aulas Tweet Generator">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <link rel="stylesheet" type="text/css" href="semantic/semantic.min.css">
+        <link rel="stylesheet" type="text/css" href="css/main.css">
+
+        <script
+            src="https://code.jquery.com/jquery-3.1.1.min.js"
+            integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8="
+            crossorigin="anonymous"></script>
+        <script src="semantic/semantic.min.js"></script>
+        
+    </head>
+    
+    <body>
+        <!-- Page Contents -->
+        <div class="pusher" id="app_aulas_tweet_generator">
+          <div class="ui inverted vertical masthead center aligned segment top_h">
+
+            <div class="ui text container">
+
+              <h1 class="ui inverted header">
+                <img src="/assets/images/ol.png" class="logo"><br/>
+                Aulas Tweet Generator
+              </h1>
+              <h2>Tu veux tweeter comme Jean Michel Aulas ? </h2>
+              <!--<div class="ui huge primary button">Get Started <i class="right arrow icon"></i></div>-->
+            </div>
+
+          </div>
+
+
+          <div class="ui vertical stripe quote segment">
+            <div class="ui equal width stackable internally celled grid">
+              <div class="center aligned row">
+                <div class="column">
+                    <p>
+                        <img :src="p_j" class="ui avatar image">
+                        <b>Déclaration de {{ journalist.name }}</b>
+                    </p>
+                    <button class="ui button" v-on:click="randQuestion">Random</button>
+                    <h3 v-html="q_j"></h3>
+                  
+                </div>
+
+              </div>
+            </div>
+          </div>
+
+          <div class="ui vertical stripe quote segment">
+            <div class="ui equal width stackable internally celled grid">
+              <div class="center aligned row">
+                <div class="column">
+                    
+                    <div class="ui top attached tabular menu">
+                      <a class="active item" data-tab="first">A/ Tweet auto-généré par Yaman </a>
+                      <a class="item" data-tab="second">B/ Créé ton propre tweet</a>
+                    </div>
+                    <div class="ui bottom attached active tab segment" data-tab="first">
+                        <p>
+                            <img src="https://pbs.twimg.com/profile_images/1035150510393884677/l9yE_yEH_400x400.jpg" class="ui avatar image">
+                            <b>La réponse de Jean-Michel AULAS</b> 
+                        </p>
+
+                        <button class="ui button" v-on:click="randTweet">Random</button>
+                        <h3 v-html="aulas_tweet"></h3>
+                        <button class="ui button tweet_btn" v-on:click="tweetA"> <i class="twitter icon"></i> Tweet comme JMA !</button>
+                    </div>
+                    <div class="ui bottom attached tab segment" data-tab="second">
+                        <p>
+                            <img src="https://pbs.twimg.com/profile_images/1035150510393884677/l9yE_yEH_400x400.jpg" class="ui avatar image">
+                            <b>La réponse de Jean-Michel AULAS</b> 
+                        </p>
+
+                        <form class="ui form">
+                            <div class="four fields">
+                                <div class="field">
+                                    <label>Thèmatique</label>
+                                    <select class="ui fluid dropdown" name="theme" v-model="theme" v-on:change="randTweetB">
+                                        <option v-for="theme in themes" :value="theme.code">{{ theme.name }}</option>
+                                    </select>
+                                </div>
+                                <div class="field">
+                                    <label>Ton</label>
+                                    <select class="ui fluid dropdown" name="ton" v-on:change="randTweetB">
+                                        <option value="1">Positif</option>
+                                        <option value="0">Critique</option>
+                                    </select>
+                                </div>
+                                <div class="field">
+                                    <label>Cible</label>
+                                    <select class="ui fluid dropdown" name="target" v-model="target" v-on:change="randTweetB">
+                                        <option v-for="target in targets" :value="target.name">{{ target.name }}</option>
+                                    </select>
+                                </div>
+                                <div class="field">
+                                    <label>Phrases</label>
+                                    <select class="ui fluid dropdown" name="phrase" v-model="phrase" v-on:change="randTweetB">
+                                        <option v-for="phrase in phrases" :value="phrase.name">{{ phrase.name }}</option>
+                                    </select>
+                                </div>
+                                <div class="field">
+                                    <label>Hashtags</label>
+                                    <select class="ui fluid dropdown" name="hashtag" v-model="hashtag" v-on:change="randTweetB">
+                                        <option v-for="hashtag in hashtags" :value="hashtag.name">{{ hashtag.name }}</option>
+                                    </select>
+                                </div>
+                            </div>
+                        </form>
+
+                        <button class="ui button" v-on:click="randTweetB">Random</button>
+
+                        <h3 v-html="aulas_tweet_b"></h3>
+                        <button class="ui button tweet_btn" v-on:click="tweetB"> <i class="twitter icon"></i> Tweet comme JMA !</button>
+                    </div>
+
+                </div>
+
+              </div>
+            </div>
+          </div>
+
+          <!--<div class="ui vertical stripe quote segment">
+            <div class="ui equal width stackable internally celled grid">
+              <div class="center aligned row">
+                <div class="column">
+                    <p>
+                        <img src="https://pbs.twimg.com/profile_images/1035150510393884677/l9yE_yEH_400x400.jpg" class="ui avatar image">
+                        <b>Jean-Michel AULAS</b> 
+                    </p>
+                    <h3><i class="quote left icon"></i>I shouldn't have gone with their competitor.<i class="quote right icon"></i></h3>
+                  
+                </div>
+            
+                <div class="column">
+                    <p>
+                        <img src="https://pbs.twimg.com/profile_images/1035150510393884677/l9yE_yEH_400x400.jpg" class="ui avatar image">
+                        <b>Jean-Michel AULAS</b> 
+                    </p>
+                    <h3><i class="quote left icon"></i>I shouldn't have gone with their competitor.<i class="quote right icon"></i></h3>
+                  
+                </div>
+              </div>
+            </div>
+          </div>-->
+
+
+          <div class="ui inverted vertical footer segment bottom_h">
+            <div class="ui container">
+              <div class="ui stackable inverted divided equal height stackable grid">
+                
+                <div class="wide column footer">
+                    <p align="center"> Made with <i class="heart icon"></i>and miel gone by <a href="https://twitter.com/Jean_Fion" target="_blank">@Jean Fion</a>, <a href="https://twitter.com/Yaman_GoneLB" target="_blank">@Yaman</a> and <a href="https://twitter.com/notedeufre" target="_blank">@notedeufre</a>                 
+                </div>
+                
+              </div>
+            </div>
+          </div>
+        </div>
+
+    </body>
+
+
+    <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+    <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+    <script src="js/app.js"></script>
+
+    <script>window.twttr = (function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0],
+        t = window.twttr || {};
+      if (d.getElementById(id)) return t;
+      js = d.createElement(s);
+      js.id = id;
+      js.src = "https://platform.twitter.com/widgets.js";
+      fjs.parentNode.insertBefore(js, fjs);
+
+      t._e = [];
+      t.ready = function(f) {
+        t._e.push(f);
+      };
+
+      return t;
+    }(document, "script", "twitter-wjs"));</script>
+
+</html>
