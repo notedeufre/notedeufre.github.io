@@ -1,0 +1,179 @@
+/* line 1, ../sass/layout.scss */
+.hidden.menu {
+  display: none;
+}
+
+/* line 5, ../sass/layout.scss */
+img.logo {
+  max-width: 80px;
+}
+
+/* line 8, ../sass/layout.scss */
+.masthead.segment {
+  min-height: 250px;
+  padding: 1em 0em;
+}
+
+/* line 12, ../sass/layout.scss */
+.masthead .logo.item img {
+  margin-right: 1em;
+}
+
+/* line 15, ../sass/layout.scss */
+.masthead .ui.menu .ui.button {
+  margin-left: 0.5em;
+}
+
+/* line 18, ../sass/layout.scss */
+.masthead h1.ui.header {
+  margin-top: 0.5em;
+  margin-bottom: 1em;
+  font-size: 4em;
+  font-weight: normal;
+}
+
+/* line 24, ../sass/layout.scss */
+.masthead h2 {
+  font-size: 1.7em;
+  font-weight: normal;
+}
+
+/* line 29, ../sass/layout.scss */
+.ui.vertical.stripe {
+  padding: 8em 0em;
+}
+
+/* line 32, ../sass/layout.scss */
+.ui.vertical.stripe h3 {
+  font-size: 2em;
+}
+
+/* line 35, ../sass/layout.scss */
+.ui.vertical.stripe .button + h3,
+.ui.vertical.stripe p + h3 {
+  margin-top: 1em;
+}
+
+/* line 39, ../sass/layout.scss */
+.ui.vertical.stripe .floated.image {
+  clear: both;
+}
+
+/* line 42, ../sass/layout.scss */
+.ui.vertical.stripe p {
+  font-size: 1.33em;
+}
+
+/* line 45, ../sass/layout.scss */
+.ui.vertical.stripe .horizontal.divider {
+  margin: 3em 0em;
+}
+
+/* line 49, ../sass/layout.scss */
+.quote.stripe.segment {
+  padding: 0em;
+}
+
+/* line 52, ../sass/layout.scss */
+.quote.stripe.segment .grid .column {
+  padding-top: 5em;
+  padding-bottom: 5em;
+}
+
+/* line 57, ../sass/layout.scss */
+.footer.segment {
+  padding: 5em 0em;
+}
+
+/* line 61, ../sass/layout.scss */
+.secondary.pointing.menu .toc.item {
+  display: none;
+}
+
+/* line 65, ../sass/layout.scss */
+.top_h {
+  background: #b03817 !important;
+}
+
+/* line 69, ../sass/layout.scss */
+.bottom_h {
+  background: #2e3d75 !important;
+}
+
+/* line 73, ../sass/layout.scss */
+.ui.top.attached.menu > .item:first-child {
+  margin-left: auto;
+}
+
+/* line 76, ../sass/layout.scss */
+.ui.top.attached.menu > .item:last-child {
+  margin-right: auto;
+}
+
+/* line 80, ../sass/layout.scss */
+.footer a {
+  color: #ccc;
+  text-decoration: underline;
+}
+
+/* line 85, ../sass/layout.scss */
+.footer i {
+  color: #ffffff;
+}
+
+/* line 89, ../sass/layout.scss */
+button.tweet_btn {
+  background: #1da1f2 !important;
+  position: absolute;
+  right: 10px;
+  color: #fff !important;
+}
+/* line 94, ../sass/layout.scss */
+button.tweet_btn i {
+  color: #fff !important;
+}
+
+/* line 99, ../sass/layout.scss */
+.ui.form .field > label {
+  text-align: left;
+}
+
+/* line 103, ../sass/layout.scss */
+.ui.bottom.attached.tab.segment {
+  padding-bottom: 4em;
+}
+
+@media only screen and (max-width: 700px) {
+  /* line 108, ../sass/layout.scss */
+  .ui.fixed.menu {
+    display: none !important;
+  }
+
+  /* line 111, ../sass/layout.scss */
+  .secondary.pointing.menu .item,
+  .secondary.pointing.menu .menu {
+    display: none;
+  }
+
+  /* line 115, ../sass/layout.scss */
+  .secondary.pointing.menu .toc.item {
+    display: block;
+  }
+
+  /* line 118, ../sass/layout.scss */
+  .masthead.segment {
+    min-height: 350px;
+  }
+
+  /* line 121, ../sass/layout.scss */
+  .masthead h1.ui.header {
+    font-size: 2em;
+    margin-top: 1.5em;
+  }
+
+  /* line 125, ../sass/layout.scss */
+  .masthead h2 {
+    margin-top: 0.5em;
+    font-size: 1.5em;
+  }
+}

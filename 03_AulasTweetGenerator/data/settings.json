@@ -1,0 +1,80 @@
+{
+	"journalists" : [
+		{ 
+			"name" : "Daniel Riolo" , 
+			"picture" : "riolo.jpg" , 
+			"questions" : [
+				"Le PSG définitivement hors de cause rapport au FPF ?? Bah comment ça ? Et Mediapart, l’Evangile de la raison,  tout ça ? Bah alors ? C’est pas comme ils disaient ? C’est comme on disait alors ? Étonnant non ?", 
+				"Kurzawa ? Sissoko, Zouma, Digne ? Bah en même temps, on est champions du monde hein..." , 
+				"Mais c’est bien. C la grande force du boss de l’OL c’est d’être suivi même dans l’absurde. L’idée que gagner la LDC c plus simple que la L1 va faire son chemin. :):):):) moi je dis Bravo !!"
+			]
+		},
+		{ 
+			"name" : "Hervé Penot" , 
+			"picture" : "penot.jpg" , 
+			"questions" : [
+				"Si on reste sur le championnat, c’est plus important pour Marseille @lequipedusoir",
+				"Quel match horrible, wallah c'était nul nul nul",
+				"Un mot sur la victoire des féminines ?"
+			]
+		},
+		{ 
+			"name" : "Pierre Menes" , 
+			"picture" : "menes.jpg" , 
+			"questions" : [
+				"Penalty oublié sur Fekir" , 
+				"Vous nous gonflez avec votre classico « résultat plus de 1.5 million devant le CFC. Comme quoi entre Twitter et la réalité des gens..." , 
+				"La marche était trop haute <br> Lyon n'a pas non plus fait le match qu'il fallait..." 
+			]
+		}
+	] , 
+
+	"themes" : [
+		{ "code" : "" , "name" : "N'importe lequel" } , 
+		{ "code" : "A" , "name" : "Génésio" } , 
+		{ "code" : "B" , "name" : "Arbitrage" } , 
+		{ "code" : "C" , "name" : "UEFA" } , 
+		{ "code" : "D" , "name" : "Economie" } , 
+		{ "code" : "E" , "name" : "LFP" } , 
+		{ "code" : "F" , "name" : "Journalistes" } ,  
+		{ "code" : "G" , "name" : "Anciens joueurs" } , 
+		{ "code" : "H" , "name" : "Aucun rapport" } , 
+		{ "code" : "I" , "name" : "Mercato" } 
+	] , 
+
+	"targets" : [
+		{ "code" : "" , "name" : "Aucune" } , 
+		{ "code" : "A" , "name" : "Turpin" } , 
+		{ "code" : "B" , "name" : "Nasser" } , 
+		{ "code" : "C" , "name" : "Donald Trump" } , 
+		{ "code" : "D" , "name" : "Gorgelin" } , 
+		{ "code" : "E" , "name" : "Ndombele" } , 
+		{ "code" : "F" , "name" : "Govou" } ,  
+		{ "code" : "G" , "name" : "Puydebois" } , 
+		{ "code" : "H" , "name" : "Riolo" } , 
+		{ "code" : "I" , "name" : "Menes" } 
+	] , 
+
+	"phrases" : [
+		{ "code" : "A" , "name" : "OL is back" } , 
+		{ "code" : "B" , "name" : "Ceci etant, l'OL, c'est 20 participations consécuvites à une coupe d'Europe" } , 
+		{ "code" : "C" , "name" : "EBITDA > 20% du CA à n-1 depuis 2015" } , 
+		{ "code" : "D" , "name" : "Vous vous discreditez" } , 
+		{ "code" : "E" , "name" : "Outil formidable et fonctionnel" } , 
+		{ "code" : "F" , "name" : "Aller l'OL" } ,  
+		{ "code" : "G" , "name" : "l'OL fera appel" } ,
+		{ "code" : "I" , "name" : "Menes" } 
+	] , 
+
+	"hashtags" : [
+		{ "code" : "" , "name" : "#memphislionking" } , 
+		{ "code" : "A" , "name" : "#olfem" } , 
+		{ "code" : "B" , "name" : "#olwinner" } , 
+		{ "code" : "C" , "name" : "#jekiffeUefaCLeague" } , 
+		{ "code" : "D" , "name" : "#TousAvecNosChampionnes" } , 
+		{ "code" : "E" , "name" : "#fff" } , 
+		{ "code" : "F" , "name" : "#ethique" } , 
+		{ "code" : "G" , "name" : "#OLinstitirion" } , 
+		{ "code" : "I" , "name" : "#lajoiedegagner" } 
+	] 
+}
